@@ -28,6 +28,7 @@ A curated list of everything OpenStreetMap.
 - [hdyc](http://hdyc.neis-one.org) Shows user contribution
 - [whodidit](http://zverik.osm.rambler.ru/whodidit/) Changesets analyzer
 - [achavi](https://overpass-api.de/achavi/) Augmented change viewer
+- [changeset-map](http://osmlab.github.io/changeset-map/) Changeset visualizer
 - [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) Explore latest changesets
 
 ## Public APIs 
@@ -46,6 +47,7 @@ A curated list of everything OpenStreetMap.
 ### Javascript
 - [iD](https://github.com/openstreetmap/iD) The easy-to-use OpenStreetMap editor in JavaScript. 
 - [node-osmium](https://github.com/osmcode/node-osmium) Node wrapper for libosmium.
+- [changeset-map](https://github.com/osmlab/changeset-map) Visualise a changeset
 
 ### Python
 - [overpass-wrapper](https://github.com/mvexel/overpass-api-python-wrapper) A wrapper around the OpenStreetMap Overpass API.

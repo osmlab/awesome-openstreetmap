@@ -36,7 +36,7 @@ A curated list of everything OpenStreetMap.
 - [osm.mazdermind](https://osm.mazdermind.de/replicate-sequences/) Maps Timestamp to replicate sequences.
 - [planet.osm](http://planet.osm.org) Dumnps minutely/weekly/yearly/full of osm data.
 - [bbbike](https://extract.bbbike.org) Allows extracting of areas from planet.osm.
-- 
+
 ## Tools
 
 ### C/C++
@@ -48,7 +48,7 @@ A curated list of everything OpenStreetMap.
 - [node-osmium](https://github.com/osmcode/node-osmium) Node wrapper for libosmium.
 
 ### Python
-- [Overpass API python wrapper](https://github.com/mvexel/overpass-api-python-wrapper) A wrapper around the OpenStreetMap Overpass API.
+- [overpass-wrapper](https://github.com/mvexel/overpass-api-python-wrapper) A wrapper around the OpenStreetMap Overpass API.
 - [osmapi](https://github.com/metaodi/osmapi) Python wrapper for the OpenStreetMap API 
 - [osmcha](https://github.com/willemarcel/osmcha) Python package to detect suspicious OSM changesets 
 
@@ -59,3 +59,5 @@ A curated list of everything OpenStreetMap.
 ## Maps
 
 ## Articles
+
+## Communities

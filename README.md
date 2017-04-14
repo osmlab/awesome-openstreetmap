@@ -8,7 +8,7 @@ A curated list of everything OpenStreetMap.
 * [Web Apps](#web-apps)
 * [Public APIs](#public-apis)
 * [Tools](#tools)
-    * [C/C  ](#cc)
+    * [C/C++](#cc)
     * [Javascript](#javascript)
     * [Python](#python)
     * [Java](#java)

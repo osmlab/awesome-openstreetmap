@@ -4,17 +4,22 @@ A curated list of everything OpenStreetMap.
 
 ## Table of Contents
 
-   * [Editors](#editors)
-   * [Data Extractors](#data-extractors)
-   * [Utility](#utility)
-   * [Maps](#maps)
-   * [Articles](#articles)
+* [Editors](#editors)
+* [Web Apps](#web-apps)
+* [Public APIs](#public-apis)
+* [Tools](#tools)
+    * [C/C  ](#cc)
+    * [Javascript](#javascript)
+    * [Python](#python)
+    * [Java](#java)
+* [Maps](#maps)
+* [Articles](#articles)
 
 
 ## Editors
 
-- [iD](https://github.com/openstreetmap/iD) The easy-to-use OpenStreetMap editor in JavaScript. 
-- [JOSM](https://josm.openstreetmap.de)  An extensible editor for ​OpenStreetMap (OSM) for ​Java 8.
+- [iD](http://www.openstreetmap.org/edit?editor=id) The easy-to-use browser editor.
+- [JOSM](https://josm.openstreetmap.de) An extensible desktop editor.
 
 ## Web Apps
 
@@ -28,10 +33,27 @@ A curated list of everything OpenStreetMap.
 - [planet.osm](http://planet.osm.org) Dumnps minutely/weekly/yearly/full of osm data.
 - [bbbike](https://extract.bbbike.org) Allows extracting of areas from planet.osm.
 - 
-## Utility
+## Tools
 
+### C/C++
 - [libosmium](https://github.com/osmcode/libosmium) Fast and flexible C++ library for working with OpenStreetMap data.
+- [OSRM](https://github.com/Project-OSRM/osrm-backend)  A routing engine.
+
+### Javascript
+- [iD](https://github.com/openstreetmap/iD) The easy-to-use OpenStreetMap editor in JavaScript. 
 - [node-osmium](https://github.com/osmcode/node-osmium) Node wrapper for libosmium.
+
+### Python
+- [Overpass API python wrapper](https://github.com/mvexel/overpass-api-python-wrapper) A wrapper around the OpenStreetMap Overpass API.
+- [osmapi](https://github.com/metaodi/osmapi) Python wrapper for the OpenStreetMap API 
+- [osmcha](https://github.com/willemarcel/osmcha) Python package to detect suspicious OSM changesets 
+- 
+
+### Java 
+- [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) An open source multi-modal trip planner
+- [JOSM](https://josm.openstreetmap.de)  An extensible dekstop editor.
+- []
+
 ## Maps
 
 ## Articles

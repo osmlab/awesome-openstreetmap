@@ -25,6 +25,10 @@ A curated list of everything OpenStreetMap.
 
 - [overpass-turbo](http://overpass-turbo.eu) A web based data mining tool for OpenStreetMap using Overpass API.
 - [osmcha](https://osmcha.mapbox.com) Detects suspicious OSM changesets
+- [hdyc](http://hdyc.neis-one.org) Shows user contribution
+- [whodidit](http://zverik.osm.rambler.ru/whodidit/) Changesets analyzer
+- [achavi](https://overpass-api.de/achavi/) Augmented change viewer
+- [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) Explore latest changesets
 
 ## Public APIs 
 
@@ -47,12 +51,10 @@ A curated list of everything OpenStreetMap.
 - [Overpass API python wrapper](https://github.com/mvexel/overpass-api-python-wrapper) A wrapper around the OpenStreetMap Overpass API.
 - [osmapi](https://github.com/metaodi/osmapi) Python wrapper for the OpenStreetMap API 
 - [osmcha](https://github.com/willemarcel/osmcha) Python package to detect suspicious OSM changesets 
-- 
 
 ### Java 
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) An open source multi-modal trip planner
-- [JOSM](https://josm.openstreetmap.de)  An extensible dekstop editor.
-- []
+- [JOSM](https://josm.openstreetmap.de) An extensible dekstop editor.
 
 ## Maps
 

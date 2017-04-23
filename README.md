@@ -53,7 +53,7 @@ A curated list of everything OpenStreetMap.
 - [overpass-wrapper](https://github.com/mvexel/overpass-api-python-wrapper) A wrapper around the OpenStreetMap Overpass API.
 - [osmapi](https://github.com/metaodi/osmapi) Python wrapper for the OpenStreetMap API 
 - [osmcha](https://github.com/willemarcel/osmcha) Python package to detect suspicious OSM changesets 
-
+- [osmnx](https://github.com/gboeing/osmnx) visualize street networks
 ### Java 
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) An open source multi-modal trip planner
 - [JOSM](https://josm.openstreetmap.de) An extensible dekstop editor.

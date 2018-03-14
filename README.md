@@ -30,6 +30,7 @@ A curated list of everything OpenStreetMap.
 - [achavi](https://overpass-api.de/achavi/) Augmented change viewer
 - [changeset-map](http://osmlab.github.io/changeset-map/) Changeset visualizer
 - [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) Explore latest changesets
+- [Analytic OSM Tracker](https://github.com/MichaelVL/osm-analytic-tracker) Track changesets in your region
 
 ## Public APIs 
 

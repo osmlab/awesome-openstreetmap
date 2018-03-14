@@ -33,7 +33,7 @@ A curated list of everything OpenStreetMap.
 
 ## Public APIs 
 
-- [overpass](http://overpass-api.de)  The Overpass API is a read-only API that serves up custom selected parts of the OSM map data.
+- [overpass](http://overpass-api.de) The Overpass API is a read-only API that serves up custom selected parts of the OSM map data.
 - [osm.mazdermind](https://osm.mazdermind.de/replicate-sequences/) Maps Timestamp to replicate sequences.
 - [planet.osm](http://planet.osm.org) Dumnps minutely/weekly/yearly/full of osm data.
 - [bbbike](https://extract.bbbike.org) Allows extracting of areas from planet.osm.
@@ -54,6 +54,8 @@ A curated list of everything OpenStreetMap.
 - [osmapi](https://github.com/metaodi/osmapi) Python wrapper for the OpenStreetMap API 
 - [osmcha](https://github.com/willemarcel/osmcha) Python package to detect suspicious OSM changesets 
 - [osmnx](https://github.com/gboeing/osmnx) visualize street networks
+- [OpenMapTiles](https://openmaptiles.org/) Set of tool for self-hosted vector maps and map services with labels in more than 50 languages.
+- [OSMNames](http://osmnames.org/) Geocoding tool ranking places according to the corresponding Wikipedia page popularity
 ### Java 
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) An open source multi-modal trip planner
 - [JOSM](https://josm.openstreetmap.de) An extensible dekstop editor.

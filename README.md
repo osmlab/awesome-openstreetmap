@@ -31,7 +31,7 @@ A curated list of everything OpenStreetMap.
 - [changeset-map](http://osmlab.github.io/changeset-map/) Changeset visualizer
 - [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) Explore latest changesets
 
-## Public APIs 
+## Public APIs
 
 - [overpass](http://overpass-api.de) The Overpass API is a read-only API that serves up custom selected parts of the OSM map data.
 - [osm.mazdermind](https://osm.mazdermind.de/replicate-sequences/) Maps Timestamp to replicate sequences.
@@ -45,22 +45,23 @@ A curated list of everything OpenStreetMap.
 - [OSRM](https://github.com/Project-OSRM/osrm-backend)  A routing engine.
 
 ### Javascript
-- [iD](https://github.com/openstreetmap/iD) The easy-to-use OpenStreetMap editor in JavaScript. 
+- [iD](https://github.com/openstreetmap/iD) The easy-to-use OpenStreetMap editor in JavaScript.
 - [node-osmium](https://github.com/osmcode/node-osmium) Node wrapper for libosmium.
 - [changeset-map](https://github.com/osmlab/changeset-map) Visualise a changeset
 
 ### Python
 - [overpass-wrapper](https://github.com/mvexel/overpass-api-python-wrapper) A wrapper around the OpenStreetMap Overpass API.
-- [osmapi](https://github.com/metaodi/osmapi) Python wrapper for the OpenStreetMap API 
-- [osmcha](https://github.com/willemarcel/osmcha) Python package to detect suspicious OSM changesets 
+- [osmapi](https://github.com/metaodi/osmapi) Python wrapper for the OpenStreetMap API
+- [osmcha](https://github.com/willemarcel/osmcha) Python package to detect suspicious OSM changesets
 - [osmnx](https://github.com/gboeing/osmnx) visualize street networks
 - [OpenMapTiles](https://openmaptiles.org/) Set of tool for self-hosted vector maps and map services with labels in more than 50 languages.
 - [OSMNames](http://osmnames.org/) Geocoding tool ranking places according to the corresponding Wikipedia page popularity
-### Java 
+### Java
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) An open source multi-modal trip planner
 - [JOSM](https://josm.openstreetmap.de) An extensible dekstop editor.
 
 ## Maps
+- [Terrain Classic](https://github.com/stamen/terrain-classic) World-wide CartoCSS port of Stamen's classic terrain style.
 
 ## Articles
 

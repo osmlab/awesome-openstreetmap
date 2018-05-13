@@ -59,6 +59,7 @@ A curated list of everything OpenStreetMap.
 ### Java 
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) An open source multi-modal trip planner
 - [JOSM](https://josm.openstreetmap.de) An extensible dekstop editor.
+- [GraphHopper](https://github.com/graphhopper/graphhopper) An open source route planning library and server using OpenStreetMap.
 
 ## Maps
 

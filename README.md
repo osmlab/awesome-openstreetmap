@@ -36,7 +36,7 @@ A curated list of everything OpenStreetMap.
 
 - [overpass](http://overpass-api.de) The Overpass API is a read-only API that serves up custom selected parts of the OSM map data.
 - [osm.mazdermind](https://osm.mazdermind.de/replicate-sequences/) Maps Timestamp to replicate sequences.
-- [planet.osm](http://planet.osm.org) Dumnps minutely/weekly/yearly/full of osm data.
+- [planet.osm](http://planet.osm.org) Dumps minutely/weekly/yearly/full of osm data.
 - [bbbike](https://extract.bbbike.org) Allows extracting of areas from planet.osm.
 
 ## Tools

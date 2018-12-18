@@ -46,6 +46,7 @@ A curated list of everything OpenStreetMap.
 - [OSRM](https://github.com/Project-OSRM/osrm-backend)  A routing engine.
 
 ### Javascript
+- [openstreetmap-tag-map](https://github.com/tanrax/openstreetmap-tag-map) Tag to generate iframe from the country and region.
 - [iD](https://github.com/openstreetmap/iD) The easy-to-use OpenStreetMap editor in JavaScript.
 - [node-osmium](https://github.com/osmcode/node-osmium) Node wrapper for libosmium.
 - [changeset-map](https://github.com/osmlab/changeset-map) Visualise a changeset

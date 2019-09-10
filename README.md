@@ -13,13 +13,18 @@ A curated list of everything OpenStreetMap.
     * [Python](#python)
     * [Java](#java)
 * [Maps](#maps)
+* [Video](#video)
+    * [Global](#global)
+    * [Regional](#regional)
 * [Articles](#articles)
-
+* [Communities](#communities)
 
 ## Editors
 
 - [iD](http://www.openstreetmap.org/edit?editor=id) The easy-to-use browser editor.
+- [Potlatch](https://www.openstreetmap.org/edit?editor=potlatch2) A flash based editor in the browser.
 - [JOSM](https://josm.openstreetmap.de) An extensible desktop editor.
+- [Level0](http://level0.osmz.ru/) A text based editor that's useful in specific corner cases.
 
 ## Web Apps
 
@@ -65,6 +70,17 @@ A curated list of everything OpenStreetMap.
 ## Maps
 - [Terrain Classic](https://github.com/stamen/terrain-classic) World-wide CartoCSS port of Stamen's classic terrain style.
 
+## Video
+
+### Global
+- [State of the Map](https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ)
+- [Humanitarian OpenStreetMap Team (HOT)](https://www.youtube.com/user/hotosm)
+### Regional
+- [OpenStreetMap Indonesia](https://www.youtube.com/channel/UCRqMbcsT9ummMvByc1BlsDQ)
+- [OpenStreetMap Poland](https://www.youtube.com/channel/UCH4PSBSafxZ-YWg8RCRbHjA)
+- [OpenStreetMap US](https://www.youtube.com/channel/UCQpS2iHNVR-_6nAxt87nwCw)
+
 ## Articles
+
 
 ## Communities

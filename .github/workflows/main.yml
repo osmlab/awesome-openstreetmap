@@ -1,7 +1,12 @@
-name: CI
+name: Lint Repository
 on:
+  push:
+    paths:
+      - 'README.md'
   pull_request:
     branches: [main]
+    paths:
+      - 'README.md'
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest

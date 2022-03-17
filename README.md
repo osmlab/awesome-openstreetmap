@@ -17,6 +17,7 @@ A curated list of everything OpenStreetMap.
 * [Video](#video)
   * [Global](#global)
   * [Regional](#regional)
+* [Wiki-Pages](#wiki-pages)
 * [Articles](#articles)
 * [Communities](#communities)
 
@@ -95,6 +96,12 @@ A curated list of everything OpenStreetMap.
 * [OpenStreetMap Indonesia](https://www.youtube.com/channel/UCRqMbcsT9ummMvByc1BlsDQ)
 * [OpenStreetMap Poland](https://www.youtube.com/channel/UCH4PSBSafxZ-YWg8RCRbHjA)
 * [OpenStreetMap US](https://www.youtube.com/channel/UCQpS2iHNVR-_6nAxt87nwCw)
+
+## Wiki-Pages
+
+* [Main Page](https://wiki.openstreetmap.org/wiki/Main_Page) - An overview page with links to the most useful pages.
+* [Beginners' guide](https://wiki.openstreetmap.org/wiki/Beginners'_guide) - Five-step-guide on what OpenStreetMap is and how it works.
+* [Mapping projects](https://wiki.openstreetmap.org/wiki/Mapping_projects) - Mapping projects to participate in.
 
 ## Articles
 

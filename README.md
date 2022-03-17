@@ -6,6 +6,7 @@ A curated list of everything OpenStreetMap.
 
 * [Editors](#editors)
 * [Web Apps](#web-apps)
+* [Android Apps](#android-apps)
 * [Public APIs](#public-apis)
 * [Tools](#tools)
     * [C/C++](#cc)
@@ -31,6 +32,12 @@ A curated list of everything OpenStreetMap.
 - [changeset-map](http://osmlab.github.io/changeset-map/) Changeset visualizer
 - [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) Explore latest changesets
 - [Analytic OSM Tracker](https://github.com/MichaelVL/osm-analytic-tracker) Track changesets in your region
+
+## Android Apps
+
+- [StreetComplete](https://github.com/westnordost/StreetComplete) OSM Surveyor app.
+- [OsmAnd](https://osmand.net) Map viewing and navigation (routing) application.
+- [OSMTracker](https://github.com/labexp/osmtracker-android) Offline GPS tracking tool.
 
 ## Public APIs
 

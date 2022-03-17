@@ -61,7 +61,7 @@ A curated list of everything OpenStreetMap.
 
 ### JavaScript
 
-* [openstreetmap-tag-map](https://github.com/tanrax/openstreetmap-tag-map) Tag for Riot.js to generate iframe from the country and region.
+* [openstreetmap-tag-map](https://github.com/tanrax/openstreetmap-tag-map) - Tag for Riot.js to generate iframe from the country and region.
 * [iD](https://github.com/openstreetmap/iD) - The easy-to-use OpenStreetMap editor in JavaScript.
 * [node-osmium](https://github.com/osmcode/node-osmium) - Node wrapper for libosmium.
 * [changeset-map](https://github.com/osmlab/changeset-map) - Visualise a changeset.

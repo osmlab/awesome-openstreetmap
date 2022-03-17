@@ -73,6 +73,7 @@ A curated list of everything OpenStreetMap.
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) An open source multi-modal trip planner
 - [JOSM](https://josm.openstreetmap.de) An extensible dekstop editor.
 - [GraphHopper](https://github.com/graphhopper/graphhopper) An open source route planning library and server using OpenStreetMap.
+- [Baremaps](https://www.baremaps.com/) - An open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java.
 
 ## Maps
 - [Terrain Classic](https://github.com/stamen/terrain-classic) World-wide CartoCSS port of Stamen's classic terrain style.

@@ -6,6 +6,7 @@ A curated list of everything OpenStreetMap.
 
 * [Editors](#editors)
 * [Web Apps](#web-apps)
+  * [Task Lists](#task-lists)
 * [Mobile Apps](#mobile-apps)
   * [Android Apps](#android-apps)
   * [iOS Apps](#ios-apps)
@@ -21,6 +22,7 @@ A curated list of everything OpenStreetMap.
   * [Global](#global)
   * [Regional](#regional)
 * [Additional Ressources](#additional-ressources)
+  * [Websites](#websites)
   * [Wiki-Pages](#wiki-pages)
 * [Articles](#articles)
 * [Communities](#communities)
@@ -43,6 +45,10 @@ A curated list of everything OpenStreetMap.
 * [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) - Map for exploring latest changesets. ([Source Code](https://github.com/tyrasd/latest-changes/))
 * [Analytic OSM Tracker](https://github.com/MichaelVL/osm-analytic-tracker) - Tracker for changesets in your region.
 * [MapWith.ai](https://mapwith.ai/) - AI assisted versions of iD. ([Meta-Repo](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code](https://github.com/facebookincubator/RapiD))
+
+### Task Lists
+
+* [HOT Tasking Manager](https://tasks.hotosm.org/) - Mapping tasks for supporting humanitarian missions in crisis areas.
 
 ## Mobile Apps
 

@@ -45,7 +45,6 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 ### Web Editors
 
 * [iD](http://www.openstreetmap.org/edit?editor=id) - JavaScript based editor for the web browser with a wide array of presets. ([Source Code](https://github.com/openstreetmap/iD))
-* [Potlatch](https://www.openstreetmap.org/edit?editor=potlatch2) - Flash based editor for the web browser. ([Source Code](https://git.openstreetmap.org/potlatch2.git))
 * [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code](https://github.com/zverik/level0))
 * [MapWith.ai](https://mapwith.ai/) - AI assisted versions of iD. ([Meta-Repo](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code](https://github.com/facebookincubator/RapiD))
 * [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz))
@@ -58,6 +57,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 ### Native Editors
 
 * [JOSM](https://josm.openstreetmap.de) - Advanced extensible desktop editor. ([Source Code](https://josm.openstreetmap.de/browser))
+* [Potlatch 3](https://www.systemed.net/potlatch/) - Native intermediate-level editor built in Adobe AIR. ([Source Code](https://github.com/systemed/potlatch3))
 
 ## Tools
 

@@ -1,6 +1,12 @@
 # Awesome OpenStreetMap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of everything OpenStreetMap.
+A curated list of awesome OpenStreetMap-projects.
+
+[OpenStreetMap](https://www.openstreetmap.org) is an open map being used by millions of devices and
+users every day. It can both be edited and used by anyone free of charge.
+
+This list contains projects using OpenStreetMap data for creative purposes, as well as projects dedicated
+to improving OpenStreetMap.
 
 ## Contents
 

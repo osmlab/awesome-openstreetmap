@@ -124,6 +124,7 @@ A curated list of everything OpenStreetMap.
 ### Websites
 
 * [LearnOSM.org](https://learnosm.org/en/beginner/) - Extencive beginners' guide to editing OpenStreetMap.
+* [What OSM?](https://whatosm.pavie.info/) - Tool for finding tools for contributing to OSM by answering three simple questions.
 
 ### Wiki-Pages
 

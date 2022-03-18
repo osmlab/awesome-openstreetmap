@@ -174,7 +174,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [OpenStreetMap Poland](https://www.youtube.com/channel/UCH4PSBSafxZ-YWg8RCRbHjA)
 * [OpenStreetMap US](https://www.youtube.com/channel/UCQpS2iHNVR-_6nAxt87nwCw)
 
-## Additional Ressources
+## Additional Resources
 
 ### Websites
 

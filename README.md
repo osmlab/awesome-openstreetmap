@@ -51,6 +51,7 @@ A curated list of everything OpenStreetMap.
 * [taginfo](https://taginfo.openstreetmap.org/) - Website displaying information on tags and their usage. ([Source Code](https://github.com/taginfo/taginfo/))
 * [Turn Restrictions](https://ahorn.lima-city.de/tr/) - Viewer for turn-restrictions and linked errors.
 * [NLMaps](https://nlmaps.gorgor.de/) - Website allowing to query OSM data using plain English.
+* [My Notes](https://my-notes.osm-hr.org/) - Search for finding your old unresolved notes.
 
 ### Task-Managers
 

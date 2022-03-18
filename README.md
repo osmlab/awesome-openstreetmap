@@ -53,6 +53,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 ### Mobile Editors
 
 * [StreetComplete](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. (Android)
+* [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. (Android / [Source Code](https://github.com/MarcusWolschon/osmeditor4android))
 
 ### Native Editors
 
@@ -113,6 +114,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Show me the way](https://osmlab.github.io/show-me-the-way/) - Live map showing latest changes on aerial imagery. ([Source Code](https://github.com/osmlab/show-me-the-way/))
 * [OSM In Realtime](https://osm-in-realtime.jwestman.net/) - Visualization of the changes made to OpenStreetMap as they happen. ([Source Code](https://gitlab.com/jwestman/osm-in-realtime))
 * [indoor=](https://indoorequal.org) - Map for viewing indoor data from OpenStreetMap.
+* [Qwant Maps](https://www.qwant.com/maps) - Modern map with POI search and routing functionality.
 
 ### Mobile Maps
 
@@ -193,6 +195,7 @@ This section is a great place to start if you want to get into improving OpenStr
 ### Global Communities
 
 * [r/openstreetmap](https://www.reddit.com/r/openstreetmap)
+* [“OpenStreetMap World” Discord](https://discord.gg/openstreetmap)
 
 ## Footnotes
 

@@ -16,6 +16,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
   * [Native Editors](#native-editors)
 * [Tools](#tools)
   * [Web Tools](#web-tools)
+  * [Mobile Tools](#mobile-tools)
   * [Native Tools](#native-tools)
 * [Task-Managers](#task-managers)
 * [Maps](#maps)
@@ -79,6 +80,10 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [Web To OSM Opening Hours](https://webmapping.cyou/WebToOSMOH/) - Tool for converting human-readable opening hours to `opening_hours` tags. ([Source Code](https://github.com/OSM-de/WebToOSMOH))
 * [ohsome Dashboard](https://ohsome.org/apps/dashboard/) - Tool for visualizing changes over a certain time period.
 
+### Mobile Tools
+
+* [OSMTracker](https://github.com/labexp/osmtracker-android) - Offline GPS tracking tool for recording GPX tracks. (Android)
+
 ### Native Tools
 
 * [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code](https://github.com/baremaps/baremaps))
@@ -110,7 +115,6 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android](https://github.com/osmandapp/OsmAnd) / [Source Code iOS](https://github.com/osmandapp/OsmAnd-iOS))
 * [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code](https://github.com/organicmaps/organicmaps))
 * [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app. (Android, iOS)
-* [OSMTracker](https://github.com/labexp/osmtracker-android) - Offline GPS tracking tool for recording GPX tracks. (Android)
 
 ### Generators
 

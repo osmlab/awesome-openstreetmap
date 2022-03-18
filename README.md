@@ -33,7 +33,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [Video](#video)
   * [Global](#global)
   * [Regional](#regional)
-* [Additional Ressources](#additional-ressources)
+* [Additional Resources](#additional-resources)
   * [Websites](#websites)
   * [Wiki-Pages](#wiki-pages)
 * [Articles](#articles)
@@ -174,7 +174,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [OpenStreetMap Poland](https://www.youtube.com/channel/UCH4PSBSafxZ-YWg8RCRbHjA)
 * [OpenStreetMap US](https://www.youtube.com/channel/UCQpS2iHNVR-_6nAxt87nwCw)
 
-## Additional Ressources
+## Additional Resources
 
 ### Websites
 

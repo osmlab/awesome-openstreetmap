@@ -29,6 +29,7 @@ A curated list of everything OpenStreetMap.
   * [Wiki-Pages](#wiki-pages)
 * [Articles](#articles)
 * [Communities](#communities)
+  * [Global Communities](#global-communities)
 
 ## Editors
 
@@ -165,3 +166,7 @@ A curated list of everything OpenStreetMap.
 ## Articles
 
 ## Communities
+
+### Global Communities
+
+* [r/openstreetmap](https://www.reddit.com/r/openstreetmap)

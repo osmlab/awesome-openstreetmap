@@ -11,17 +11,18 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 ## Contents
 
 * [Editors](#editors)
+  * [Web Editors](#web-editors)
+  * [Mobile Editors](#mobile-editors)
+  * [Native Editors](#native-editors)
 * [Tools](#tools)
   * [Web Tools](#web-tools)
-  * [Android Tools](#android-tools)
-  * [iOS Tools](#ios-tools)
   * [Native Tools](#native-tools)
 * [Task-Managers](#task-managers)
 * [Maps](#maps)
   * [Web Maps](#web-maps)
   * [Mobile Maps](#mobile-maps)
   * [Generators](#generators)
-  * [Map-Styles](#map-styles)
+  * [Map Styles](#map-styles)
 * [Libraries](#libraries)
   * [C/C++](#cc)
   * [JavaScript](#javascript)
@@ -40,12 +41,21 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 
 ## Editors
 
+### Web Editors
+
 * [iD](http://www.openstreetmap.org/edit?editor=id) - JavaScript based editor for the web browser with a wide array of presets. ([Source Code](https://github.com/openstreetmap/iD))
 * [Potlatch](https://www.openstreetmap.org/edit?editor=potlatch2) - Flash based editor for the web browser. ([Source Code](https://git.openstreetmap.org/potlatch2.git))
-* [JOSM](https://josm.openstreetmap.de) - Advanced extensible desktop editor. ([Source Code](https://josm.openstreetmap.de/browser))
 * [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code](https://github.com/zverik/level0))
 * [MapWith.ai](https://mapwith.ai/) - AI assisted versions of iD. ([Meta-Repo](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code](https://github.com/facebookincubator/RapiD))
 * [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz))
+
+### Mobile Editors
+
+* [StreetComplete](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. (Android)
+
+### Native Editors
+
+* [JOSM](https://josm.openstreetmap.de) - Advanced extensible desktop editor. ([Source Code](https://josm.openstreetmap.de/browser))
 
 ## Tools
 
@@ -68,10 +78,6 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [OpenStreetMap Welcome Tool](https://welcome.osm.be/) - Tool for finding fresh mappers in your area. ([Source Code](https://github.com/osmbe/osm-welcome-tool))
 * [Web To OSM Opening Hours](https://webmapping.cyou/WebToOSMOH/) - Tool for converting human-readable opening hours to `opening_hours` tags. ([Source Code](https://github.com/OSM-de/WebToOSMOH))
 * [ohsome Dashboard](https://ohsome.org/apps/dashboard/) - Tool for visualizing changes over a certain time period.
-
-### Android Tools
-
-### iOS Tools
 
 ### Native Tools
 
@@ -104,14 +110,13 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android](https://github.com/osmandapp/OsmAnd) / [Source Code iOS](https://github.com/osmandapp/OsmAnd-iOS))
 * [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code](https://github.com/organicmaps/organicmaps))
 * [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app. (Android, iOS)
-* [StreetComplete](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. (Android)
 * [OSMTracker](https://github.com/labexp/osmtracker-android) - Offline GPS tracking tool for recording GPX tracks. (Android)
 
 ### Generators
 
 * [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
 
-### Map-Styles
+### Map Styles
 
 * [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
 

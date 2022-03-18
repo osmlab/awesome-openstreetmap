@@ -11,22 +11,23 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 ## Contents
 
 * [Editors](#editors)
-* [Web Apps](#web-apps)
-  * [Task-Managers](#task-managers)
-  * [Live-Viewers](#live-viewers)
-* [Mobile Apps](#mobile-apps)
-  * [Android Apps](#android-apps)
-  * [iOS Apps](#ios-apps)
-* [Public APIs](#public-apis)
 * [Tools](#tools)
+  * [Web Tools](#web-tools)
+  * [Android Tools](#android-tools)
+  * [iOS Tools](#ios-tools)
+  * [Native Tools](#native-tools)
+* [Task-Managers](#task-managers)
+* [Maps](#maps)
+  * [Web Maps](#web-maps)
+  * [Mobile Maps](#mobile-maps)
+  * [Generators](#generators)
+  * [Map-Styles](#map-styles)
 * [Libraries](#libraries)
   * [C/C++](#cc)
   * [JavaScript](#javascript)
   * [Python](#python)
   * [Java](#java)
-* [Maps](#maps)
-  * [Generators](#generators)
-  * [Map-Styles](#map-styles)
+* [Public APIs](#public-apis)
 * [Video](#video)
   * [Global](#global)
   * [Regional](#regional)
@@ -43,32 +44,42 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [Potlatch](https://www.openstreetmap.org/edit?editor=potlatch2) - Flash based editor for the web browser. ([Source Code](https://git.openstreetmap.org/potlatch2.git))
 * [JOSM](https://josm.openstreetmap.de) - Advanced extensible desktop editor. ([Source Code](https://josm.openstreetmap.de/browser))
 * [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code](https://github.com/zverik/level0))
+* [MapWith.ai](https://mapwith.ai/) - AI assisted versions of iD. ([Meta-Repo](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code](https://github.com/facebookincubator/RapiD))
+* [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz))
 
-## Web Apps
+## Tools
 
+### Web Tools
+
+* [OpenMapTiles](https://openmaptiles.org/) - Set of tools for self-hosted vector maps and map services with labels in more than 50 languages. ([Source Code](https://github.com/openmaptiles))
+* [OSMNames](http://osmnames.org/) - Geocoding tool ranking places according to the corresponding Wikipedia page popularity. ([Source Code](https://github.com/osmnames/osmnames))
 * [overpass-turbo](http://overpass-turbo.eu) - Web based data mining tool for OpenStreetMap using Overpass API. ([Source Code](https://github.com/tyrasd/overpass-turbo))
 * [osmcha](https://osmcha.mapbox.com) - Detector for suspicious changesets. ([Source Code](https://github.com/mapbox/osmcha-frontend))
 * [hdyc](http://hdyc.neis-one.org) - Statistics viewer for contributions of any OSM user.
-<!--Offline, may be because of russia-ukraine-war - * [whodidit](http://zverik.osm.rambler.ru/whodidit/) - Changesets analyzer.-->
 * [achavi](https://overpass-api.de/achavi/) - Augmented change viewer. ([Source Code](https://github.com/nrenner/achavi/))
-* [changeset-map](http://osmlab.github.io/changeset-map/) - Map visualizing changesets. ([Source Code](https://github.com/osmlab/changeset-map))
-* [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) - Map for exploring latest changesets. ([Source Code](https://github.com/tyrasd/latest-changes/))
 * [Analytic OSM Tracker](https://github.com/MichaelVL/osm-analytic-tracker) - Tracker for changesets in your region.
-* [MapWith.ai](https://mapwith.ai/) - AI assisted versions of iD. ([Meta-Repo](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code](https://github.com/facebookincubator/RapiD))
 * [Osmose](https://osmose.openstreetmap.fr) - QA-tool for fixing problems detected in OpenStreetMap data. ([Source Code](https://github.com/osm-fr?q=osmose))
 * [opening_hours evaluation tool](https://openingh.openstreetmap.de/evaluation_tool/) - Tool for evaluating `opening_hours` tags. ([Source Code](https://github.com/opening-hours/opening_hours.js))
 * [taginfo](https://taginfo.openstreetmap.org/) - Website displaying information on tags and their usage. ([Source Code](https://github.com/taginfo/taginfo/))
 * [Turn Restrictions](https://ahorn.lima-city.de/tr/) - Viewer for turn-restrictions and linked errors.
 * [NLMaps](https://nlmaps.gorgor.de/) - Website allowing to query OSM data using plain English.
 * [My Notes](https://my-notes.osm-hr.org/) - Search for finding your old unresolved notes.
-* [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz))
-* [Baato Before-After Maps](https://beforeafter.baato.io/) - Generate before-after maps to visualize the work your local community has done. ([Source Code](https://github.com/baato/before-after))
 * [YoHours](https://projets.pavie.info/yohours/) - Tool for generating `opening_hours` tags. ([Source Code](https://framagit.org/PanierAvide/YoHours))
 * [OpenStreetMap Welcome Tool](https://welcome.osm.be/) - Tool for finding fresh mappers in your area. ([Source Code](https://github.com/osmbe/osm-welcome-tool))
 * [Web To OSM Opening Hours](https://webmapping.cyou/WebToOSMOH/) - Tool for converting human-readable opening hours to `opening_hours` tags. ([Source Code](https://github.com/OSM-de/WebToOSMOH))
 * [ohsome Dashboard](https://ohsome.org/apps/dashboard/) - Tool for visualizing changes over a certain time period.
 
-### Task-Managers
+### Android Tools
+
+### iOS Tools
+
+### Native Tools
+
+* [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code](https://github.com/baremaps/baremaps))
+
+<!--Offline, may be because of russia-ukraine-war - * [whodidit](http://zverik.osm.rambler.ru/whodidit/) - Changesets analyzer.-->
+
+## Task-Managers
 
 * [HOT Tasking Manager](https://tasks.hotosm.org/) - Mapping tasks for supporting humanitarian missions in crisis areas.
 * [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code](https://github.com/osmlab/maproulette3))
@@ -77,36 +88,32 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [Damn Project](https://www.damn-project.org/) - Project for mapping by dividing big areas into small squares mappable by humans. ([Source Code](https://git.sr.ht/~qeef/damn-deploy))
 * [NotesReview](https://ent8r.github.io/NotesReview/) - Interface for searching and resolving OSM notes. ([Source Code](https://github.com/ENT8R/NotesReview))
 
-### Live-Viewers
+## Maps
 
+### Web Maps
+
+* [changeset-map](http://osmlab.github.io/changeset-map/) - Map visualizing changesets. ([Source Code](https://github.com/osmlab/changeset-map))
+* [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) - Map for exploring latest changesets. ([Source Code](https://github.com/tyrasd/latest-changes/))
+* [Baato Before-After Maps](https://beforeafter.baato.io/) - Generate before-after maps to visualize the work your local community has done. ([Source Code](https://github.com/baato/before-after))
 * [Show me the way](https://osmlab.github.io/show-me-the-way/) - Live map showing latest changes on aerial imagery. ([Source Code](https://github.com/osmlab/show-me-the-way/))
 * [OSM In Realtime](https://osm-in-realtime.jwestman.net/) - Visualization of the changes made to OpenStreetMap as they happen. ([Source Code](https://gitlab.com/jwestman/osm-in-realtime))
+* [indoor=](https://indoorequal.org) - Map for viewing indoor data from OpenStreetMap.
 
-## Mobile Apps
+### Mobile Maps
 
-* [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. ([Source Code Android](https://github.com/osmandapp/OsmAnd) / [Source Code iOS](https://github.com/osmandapp/OsmAnd-iOS))
-* [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. ([Source Code](https://github.com/organicmaps/organicmaps))
-* [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app.
+* [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android](https://github.com/osmandapp/OsmAnd) / [Source Code iOS](https://github.com/osmandapp/OsmAnd-iOS))
+* [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code](https://github.com/organicmaps/organicmaps))
+* [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app. (Android, iOS)
+* [StreetComplete](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. (Android)
+* [OSMTracker](https://github.com/labexp/osmtracker-android) - Offline GPS tracking tool for recording GPX tracks. (Android)
 
-### Android Apps
+### Generators
 
-* [StreetComplete](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions.
-* [OSMTracker](https://github.com/labexp/osmtracker-android) - Offline GPS tracking tool for recording GPX tracks.
+* [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
 
-### iOS Apps
+### Map-Styles
 
-## Public APIs
-
-* [overpass](http://overpass-api.de) - Read-only API that serves up custom selected parts of the OSM map data. ([Source Code](https://github.com/drolbr/Overpass-API))
-* [osm.mazdermind](https://osm.mazdermind.de/replicate-sequences/) - Maps Timestamp to replicate sequences. ([Source Code](https://github.com/MaZderMind/replicate-sequences))
-* [planet.osm](http://planet.osm.org) - Minutely/weekly/yearly/full dumps of osm data.
-* [bbbike](https://extract.bbbike.org) - Custom extracts of areas from planet.osm.
-
-## Tools
-
-* [OpenMapTiles](https://openmaptiles.org/) - Set of tools for self-hosted vector maps and map services with labels in more than 50 languages. ([Source Code](https://github.com/openmaptiles))
-* [OSMNames](http://osmnames.org/) - Geocoding tool ranking places according to the corresponding Wikipedia page popularity. ([Source Code](https://github.com/osmnames/osmnames))
-* [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code](https://github.com/baremaps/baremaps))
+* [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
 
 ## Libraries
 
@@ -132,17 +139,12 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - Open source multi-modal trip planner.
 * [GraphHopper](https://github.com/graphhopper/graphhopper) - Open source route planning library and server using OpenStreetMap.
 
-## Maps
+## Public APIs
 
-* [indoor=](https://indoorequal.org) - Map for viewing indoor data from OpenStreetMap.
-
-### Generators
-
-* [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
-
-### Map-Styles
-
-* [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
+* [overpass](http://overpass-api.de) - Read-only API that serves up custom selected parts of the OSM map data. ([Source Code](https://github.com/drolbr/Overpass-API))
+* [osm.mazdermind](https://osm.mazdermind.de/replicate-sequences/) - Maps Timestamp to replicate sequences. ([Source Code](https://github.com/MaZderMind/replicate-sequences))
+* [planet.osm](http://planet.osm.org) - Minutely/weekly/yearly/full dumps of osm data.
+* [bbbike](https://extract.bbbike.org) - Custom extracts of areas from planet.osm.
 
 ## Video
 

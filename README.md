@@ -42,6 +42,7 @@ A curated list of everything OpenStreetMap.
 * [changeset-map](http://osmlab.github.io/changeset-map/) - Map visualizing changesets. ([Source Code](https://github.com/osmlab/changeset-map))
 * [last-week-on-osm](https://tyrasd.github.io/latest-changes/#2/15.0/-15.0) - Map for exploring latest changesets. ([Source Code](https://github.com/tyrasd/latest-changes/))
 * [Analytic OSM Tracker](https://github.com/MichaelVL/osm-analytic-tracker) - Tracker for changesets in your region.
+* [MapWith.ai](https://mapwith.ai/) - AI assisted versions of iD. ([Meta-Repo](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code](https://github.com/facebookincubator/RapiD))
 
 ## Mobile Apps
 

@@ -49,6 +49,7 @@ A curated list of everything OpenStreetMap.
 * [opening_hours evaluation tool](https://openingh.openstreetmap.de/evaluation_tool/) - Tool for evaluating opening_hours tags. ([Source Code](https://github.com/opening-hours/opening_hours.js))
 * [taginfo](https://taginfo.openstreetmap.org/) - Website displaying information on tags and their usage. ([Source Code](https://github.com/taginfo/taginfo/))
 * [Turn Restrictions](https://ahorn.lima-city.de/tr/) - Viewer for turn-restrictions and linked errors.
+* [NLMaps](https://nlmaps.gorgor.de/) - Website allowing to query OSM data using plain English.
 
 ### Task-Managers
 

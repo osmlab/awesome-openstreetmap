@@ -4,11 +4,9 @@
 
 > A curated list of awesome [OpenStreetMap](https://www.openstreetmap.org)-projects.
 
-OpenStreetMap is an open map being used by millions of devices and
-users every day. It can both be edited and used by anyone free of charge.
+OpenStreetMap is an open map being used by millions of devices and users every day. It can both be edited and used by anyone free of charge.
 
-This list contains projects using OpenStreetMap data for creative purposes, as well as projects dedicated
-to improving OpenStreetMap.
+This list contains projects using OpenStreetMap data for creative purposes, as well as projects dedicated to improving OpenStreetMap.
 
 ## Contents
 

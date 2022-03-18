@@ -6,7 +6,7 @@ A curated list of everything OpenStreetMap.
 
 * [Editors](#editors)
 * [Web Apps](#web-apps)
-  * [Task Lists](#task-lists)
+  * [Task-Managers](#task-managers)
 * [Mobile Apps](#mobile-apps)
   * [Android Apps](#android-apps)
   * [iOS Apps](#ios-apps)
@@ -48,10 +48,11 @@ A curated list of everything OpenStreetMap.
 * [Osmose](https://osmose.openstreetmap.fr) - QA-tool for fixing problems detected in OpenStreetMap data. ([Source Code](https://github.com/osm-fr?q=osmose))
 * [opening_hours evaluation tool](https://openingh.openstreetmap.de/evaluation_tool/) - Tool for evaluating opening_hours tags. ([Source Code](https://github.com/opening-hours/opening_hours.js))
 
-### Task Lists
+### Task-Managers
 
 * [HOT Tasking Manager](https://tasks.hotosm.org/) - Mapping tasks for supporting humanitarian missions in crisis areas.
 * [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code](https://github.com/osmlab/maproulette3))
+* [Pic4Review](https://pic4review.pavie.info/#/) - Tool for adding objects to OSM by reviewing images. ([Source Code](https://framagit.org/Pic4Carto/Pic4Review))
 
 ## Mobile Apps
 

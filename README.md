@@ -86,6 +86,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 
 * [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. ([Source Code Android](https://github.com/osmandapp/OsmAnd) / [Source Code iOS](https://github.com/osmandapp/OsmAnd-iOS))
 * [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. ([Source Code](https://github.com/organicmaps/organicmaps))
+* [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app.
 
 ### Android Apps
 

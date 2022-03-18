@@ -51,10 +51,11 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 
 ### Mobile Editors
 
+<!--lint disable no-repeat-punctuation-->
 * [StreetComplete](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. (Android)
 * [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. (Android / [Source Code](https://github.com/MarcusWolschon/osmeditor4android))
-<!--lint ignore no-repeat-punctuation-->
 * [GoMap!!](https://apps.apple.com/app/id592990211) - Feature-rich mobile editor for iOS. (iOS / [Source Code](https://github.com/bryceco/GoMap))
+<!--lint enable no-repeat-punctuation-->
 
 ### Native Editors
 

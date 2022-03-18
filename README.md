@@ -53,6 +53,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 ### Mobile Editors
 
 * [StreetComplete](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. (Android)
+* [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. (Android / [Source Code](https://github.com/MarcusWolschon/osmeditor4android))
 
 ### Native Editors
 

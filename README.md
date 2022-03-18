@@ -110,6 +110,10 @@ A curated list of everything OpenStreetMap.
 
 ## Additional Ressources
 
+### Websites
+
+* [LearnOSM.org](https://learnosm.org/en/beginner/) - Extencive beginners' guide to editing OpenStreetMap.
+
 ### Wiki-Pages
 
 * [Main Page](https://wiki.openstreetmap.org/wiki/Main_Page) - An overview page with links to the most useful pages.

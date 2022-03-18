@@ -51,6 +51,7 @@ A curated list of everything OpenStreetMap.
 ### Task Lists
 
 * [HOT Tasking Manager](https://tasks.hotosm.org/) - Mapping tasks for supporting humanitarian missions in crisis areas.
+* [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code](https://github.com/osmlab/maproulette3))
 
 ## Mobile Apps
 

@@ -54,6 +54,7 @@ A curated list of everything OpenStreetMap.
 * [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code](https://github.com/osmlab/maproulette3))
 * [Pic4Review](https://pic4review.pavie.info/#/) - Tool for adding objects to OSM by reviewing images. ([Source Code](https://framagit.org/Pic4Carto/Pic4Review))
 * [Map Complete](https://mapcomplete.osm.be/) - Tool for mapping in scoped tasks.
+* [Damn Project](https://www.damn-project.org/) - Project for mapping by dividing big areas into small squares mappable by humans. ([Source Code](https://git.sr.ht/~qeef/damn-deploy))
 
 ## Mobile Apps
 

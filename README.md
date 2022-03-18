@@ -18,7 +18,8 @@ A curated list of everything OpenStreetMap.
   * [JavaScript](#javascript)
   * [Python](#python)
   * [Java](#java)
-* [Map-Styles](#map-styles)
+* [Maps](#maps)
+  * [Map-Styles](#map-styles)
 * [Video](#video)
   * [Global](#global)
   * [Regional](#regional)
@@ -119,7 +120,11 @@ A curated list of everything OpenStreetMap.
 * [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - Open source multi-modal trip planner.
 * [GraphHopper](https://github.com/graphhopper/graphhopper) - Open source route planning library and server using OpenStreetMap.
 
-## Map-Styles
+## Maps
+
+* [indoor=](https://indoorequal.org) - Map for viewing indoor data from OpenStreetMap.
+
+### Map-Styles
 
 * [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
 

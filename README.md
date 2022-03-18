@@ -53,6 +53,7 @@ A curated list of everything OpenStreetMap.
 * [NLMaps](https://nlmaps.gorgor.de/) - Website allowing to query OSM data using plain English.
 * [My Notes](https://my-notes.osm-hr.org/) - Search for finding your old unresolved notes.
 * [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz))
+* [Baato Before-After Maps](https://beforeafter.baato.io/) - Generate before-after maps to visualize the work your local community has done. ([Source Code](https://github.com/baato/before-after))
 
 ### Task-Managers
 

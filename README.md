@@ -19,6 +19,7 @@ A curated list of everything OpenStreetMap.
   * [Python](#python)
   * [Java](#java)
 * [Maps](#maps)
+  * [Generators](#generators)
   * [Map-Styles](#map-styles)
 * [Video](#video)
   * [Global](#global)
@@ -125,6 +126,10 @@ A curated list of everything OpenStreetMap.
 ## Maps
 
 * [indoor=](https://indoorequal.org) - Map for viewing indoor data from OpenStreetMap.
+
+### Generators
+
+* [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
 
 ### Map-Styles
 

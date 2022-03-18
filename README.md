@@ -1,8 +1,10 @@
 # Awesome OpenStreetMap [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome OpenStreetMap-projects.
+[<img src="osm-logo.svg" align="right" width="100">](https://www.openstreetmap.org/about)
 
-[OpenStreetMap](https://www.openstreetmap.org) is an open map being used by millions of devices and
+> A curated list of awesome [OpenStreetMap](https://www.openstreetmap.org)-projects.
+
+OpenStreetMap is an open map being used by millions of devices and
 users every day. It can both be edited and used by anyone free of charge.
 
 This list contains projects using OpenStreetMap data for creative purposes, as well as projects dedicated
@@ -176,3 +178,9 @@ to improving OpenStreetMap.
 ### Global Communities
 
 * [r/openstreetmap](https://www.reddit.com/r/openstreetmap)
+
+## Footnotes
+
+OpenStreetMap and the OpenStreetMap Logo are a trademark of the OpenStreetMap Foundation, and is used with their permission. This project is not endorsed by or affiliated with the OpenStreetMap Foundation.
+
+The OpenStreetMap Logo by Ken Vermette is used under the Creative Commons Attribution-ShareAlike 3.0 License.

@@ -52,6 +52,7 @@ A curated list of everything OpenStreetMap.
 * [Turn Restrictions](https://ahorn.lima-city.de/tr/) - Viewer for turn-restrictions and linked errors.
 * [NLMaps](https://nlmaps.gorgor.de/) - Website allowing to query OSM data using plain English.
 * [My Notes](https://my-notes.osm-hr.org/) - Search for finding your old unresolved notes.
+* [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz))
 
 ### Task-Managers
 

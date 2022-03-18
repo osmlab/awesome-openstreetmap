@@ -53,6 +53,7 @@ A curated list of everything OpenStreetMap.
 * [HOT Tasking Manager](https://tasks.hotosm.org/) - Mapping tasks for supporting humanitarian missions in crisis areas.
 * [MapRoulette](https://maproulette.org/) - Various challenges for making small edits to achive big tasks. ([Source Code](https://github.com/osmlab/maproulette3))
 * [Pic4Review](https://pic4review.pavie.info/#/) - Tool for adding objects to OSM by reviewing images. ([Source Code](https://framagit.org/Pic4Carto/Pic4Review))
+* [Map Complete](https://mapcomplete.osm.be/) - Tool for mapping in scoped tasks.
 
 ## Mobile Apps
 

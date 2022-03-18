@@ -60,6 +60,7 @@ A curated list of everything OpenStreetMap.
 * [Pic4Review](https://pic4review.pavie.info/#/) - Tool for adding objects to OSM by reviewing images. ([Source Code](https://framagit.org/Pic4Carto/Pic4Review))
 * [Map Complete](https://mapcomplete.osm.be/) - Tool for mapping in scoped tasks.
 * [Damn Project](https://www.damn-project.org/) - Project for mapping by dividing big areas into small squares mappable by humans. ([Source Code](https://git.sr.ht/~qeef/damn-deploy))
+* [NotesReview](https://ent8r.github.io/NotesReview/) - Interface for searching and resolving OSM notes. ([Source Code](https://github.com/ENT8R/NotesReview))
 
 ### Live-Viewers
 

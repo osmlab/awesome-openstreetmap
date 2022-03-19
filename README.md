@@ -142,11 +142,13 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [libosmium](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data.
 * [OSRM](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications.
+* [mapnik](https://github.com/mapnik/mapnik) - combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
 
 ### JavaScript
 
 * [openstreetmap-tag-map](https://github.com/tanrax/openstreetmap-tag-map) - Tag for Riot.js to generate iframe-map from the country and region.
 * [node-osmium](https://github.com/osmcode/node-osmium) - Node wrapper for libosmium for working with OpenStreetMap data.
+* [node-mapnik](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
 
 ### Python
 
@@ -154,6 +156,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [osmapi](https://github.com/metaodi/osmapi) - Python wrapper for the OpenStreetMap API.
 * [osmcha](https://github.com/willemarcel/osmcha) - Python package to detect suspicious OSM changesets.
 * [osmnx](https://github.com/gboeing/osmnx) - Visualizer for street networks.
+* [python-mapnik](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
 
 ### Java
 

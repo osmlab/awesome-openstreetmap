@@ -195,7 +195,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 ## Articles
 
-* [Volunteer armies map ‘invisible’ communities hit by coronavirus](https://www.asahi.com/ajw/articles/13729507) - Amid the coronavirus outbreak OpenStreetMap contributors mapped over 1,100 handwashing stations. (5 min read, 2020-10-15, The Asahi Shimbun)
+* [Volunteer armies map ‘invisible’ communities hit by coronavirus](https://www.asahi.com/ajw/articles/13729507) - OpenStreetMap contributors map over 1,100 handwashing stations. (5 min read, 2020-10-15, The Asahi Shimbun)
 
 ## Communities
 

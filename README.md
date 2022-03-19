@@ -142,7 +142,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [libosmium](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data.
 * [OSRM](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications.
-* [mapnik](https://github.com/mapnik/mapnik) - combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
+* [mapnik](https://github.com/mapnik/mapnik) - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
 
 ### JavaScript
 

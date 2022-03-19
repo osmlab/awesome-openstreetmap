@@ -120,6 +120,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Qwant Maps](https://www.qwant.com/maps) - Modern map with POI search and routing functionality.
 * [F4map Demo](https://demo.f4map.com/) - 3D rendering demo of OpenStreetMap data.
 * [FacilMap](https://facilmap.org/) - Map with easy possibility to filter for POI types. ([Source Code](https://github.com/FacilMap/facilmap))
+* [Straßenraumkarte Neukölln](https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap) - High-detail micromap of the district "Neukölln" of Berlin, Germany.
 
 ### Mobile Maps
 

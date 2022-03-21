@@ -150,6 +150,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [openstreetmap-tag-map](https://github.com/tanrax/openstreetmap-tag-map) - Tag for Riot.js to generate iframe-map from the country and region.
 * [node-osmium](https://github.com/osmcode/node-osmium) - Node wrapper for libosmium for working with OpenStreetMap data.
 * [node-mapnik](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
+* [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ([Source Code](https://github.com/Leaflet/Leaflet))
 
 ### Python
 

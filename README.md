@@ -18,7 +18,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
   * [Web Tools](#web-tools)
   * [Mobile Tools](#mobile-tools)
   * [Native Tools](#native-tools)
-* [Task-Managers](#task-managers)
+* [Tasking Managers](#tasking-managers)
 * [Maps](#maps)
   * [Web Maps](#web-maps)
   * [Mobile Maps](#mobile-maps)
@@ -94,9 +94,9 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 
 <!--Offline, may be because of russia-ukraine-war - * [whodidit](http://zverik.osm.rambler.ru/whodidit/) - Changesets analyzer.-->
 
-## Task-Managers
+## Tasking Managers
 
-Task-Managers are websites which assign small tasks to individual users to work towards a common goal.
+Tasking Managers are websites which assign small tasks to individual users to work towards a common goal.
 
 This section is a great place to start if you want to get into improving OpenStreetMap.
 
@@ -106,6 +106,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Map Complete](https://mapcomplete.osm.be/) - Tool for mapping in scoped tasks.
 * [Damn Project](https://www.damn-project.org/) - Project for mapping by dividing big areas into small squares mappable by humans. ([Source Code](https://git.sr.ht/~qeef/damn-deploy))
 * [NotesReview](https://ent8r.github.io/NotesReview/) - Interface for searching and resolving OSM notes. ([Source Code](https://github.com/ENT8R/NotesReview))
+* [teachOSM Tasking Manager](https://tasks.teachosm.org/) - Tasking Manager made for school classrooms to help map for humanitarian causes.
 
 ## Maps
 

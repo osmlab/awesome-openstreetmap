@@ -131,6 +131,7 @@ This section is a great place to start if you want to get into improving OpenStr
 ### Generators
 
 * [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
+* [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code](https://github.com/fieldpapers/fieldpapers))
 
 ### Map Styles
 

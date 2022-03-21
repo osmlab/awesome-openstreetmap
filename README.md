@@ -18,7 +18,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
   * [Web Tools](#web-tools)
   * [Mobile Tools](#mobile-tools)
   * [Native Tools](#native-tools)
-* [Task-Managers](#task-managers)
+* [Tasking Managers](#tasking-managers)
 * [Maps](#maps)
   * [Web Maps](#web-maps)
   * [Mobile Maps](#mobile-maps)
@@ -94,9 +94,9 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 
 <!--Offline, may be because of russia-ukraine-war - * [whodidit](http://zverik.osm.rambler.ru/whodidit/) - Changesets analyzer.-->
 
-## Task-Managers
+## Tasking Managers
 
-Task-Managers are websites which assign small tasks to individual users to work towards a common goal.
+Tasking Managers are websites which assign small tasks to individual users to work towards a common goal.
 
 This section is a great place to start if you want to get into improving OpenStreetMap.
 
@@ -106,6 +106,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Map Complete](https://mapcomplete.osm.be/) - Tool for mapping in scoped tasks.
 * [Damn Project](https://www.damn-project.org/) - Project for mapping by dividing big areas into small squares mappable by humans. ([Source Code](https://git.sr.ht/~qeef/damn-deploy))
 * [NotesReview](https://ent8r.github.io/NotesReview/) - Interface for searching and resolving OSM notes. ([Source Code](https://github.com/ENT8R/NotesReview))
+* [TeachOSM Tasking Manager](https://tasks.teachosm.org/) - Tasking Manager made for school classrooms to help map for humanitarian causes.
 
 ## Maps
 
@@ -131,6 +132,7 @@ This section is a great place to start if you want to get into improving OpenStr
 ### Generators
 
 * [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
+* [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code](https://github.com/fieldpapers/fieldpapers))
 
 ### Map Styles
 
@@ -149,6 +151,8 @@ This section is a great place to start if you want to get into improving OpenStr
 * [openstreetmap-tag-map](https://github.com/tanrax/openstreetmap-tag-map) - Tag for Riot.js to generate iframe-map from the country and region.
 * [node-osmium](https://github.com/osmcode/node-osmium) - Node wrapper for libosmium for working with OpenStreetMap data.
 * [node-mapnik](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
+* [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ([Source Code](https://github.com/Leaflet/Leaflet))
+* [OpenLayers](https://openlayers.org/) - A high-performance library for rendering raster and vector maps. ([Source Code](https://github.com/openlayers/openlayers))
 
 ### Python
 
@@ -189,6 +193,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [LearnOSM.org](https://learnosm.org/en/beginner/) - Extencive beginners' guide to editing OpenStreetMap.
 * [What OSM?](https://whatosm.pavie.info/) - Tool for finding tools for contributing to OSM by answering three simple questions.
+* [TeachOSM](https://teachosm.org/) - Project assisting educators at all levels to introduce open source mapping and OpenStreetMap in the classroom.
 
 ### Wiki-Pages
 

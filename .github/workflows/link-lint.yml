@@ -1,0 +1,15 @@
+name: Check Markdown links
+
+on:
+  push:
+    paths:
+      - 'README.md'
+  schedule:
+    - cron: "0 4 * * 1"
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1

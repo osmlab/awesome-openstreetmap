@@ -5,6 +5,8 @@ permissions:
   issues: write 
 on:
   push:
+    branches:
+      - main
   schedule:
     - cron: "0 4 * * 1"
 

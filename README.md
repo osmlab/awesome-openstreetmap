@@ -210,6 +210,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 ### Global Communities
 
+* [OpenStreetMap Community](https://community.openstreetmap.org/) - Official Forums hosted by the OpenStreetMap Foundation.
 * [r/openstreetmap](https://www.reddit.com/r/openstreetmap)
 * [“OpenStreetMap World” Discord](https://discord.gg/openstreetmap)
 

@@ -178,14 +178,14 @@ This section is a great place to start if you want to get into improving OpenStr
 
 ### Global
 
-* [State of the Map](https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ)
-* [Humanitarian OpenStreetMap Team (HOT)](https://www.youtube.com/user/hotosm)
+* [State of the Map](https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ) - YouTube channel of the State of the Map conference containing VoDs of talks.
+* [Humanitarian OpenStreetMap Team (HOT)](https://www.youtube.com/user/hotosm) - YouTube channel of the HOT containing content regarding humanitarian OSM work.
 
 ### Regional
 
-* [OpenStreetMap Indonesia](https://www.youtube.com/channel/UCRqMbcsT9ummMvByc1BlsDQ)
-* [OpenStreetMap Poland](https://www.youtube.com/channel/UCH4PSBSafxZ-YWg8RCRbHjA)
-* [OpenStreetMap US](https://www.youtube.com/channel/UCQpS2iHNVR-_6nAxt87nwCw)
+* [OpenStreetMap Indonesia YouTube Channel](https://www.youtube.com/channel/UCRqMbcsT9ummMvByc1BlsDQ)
+* [OpenStreetMap Poland YouTube Channel](https://www.youtube.com/channel/UCH4PSBSafxZ-YWg8RCRbHjA)
+* [OpenStreetMap US YouTube Channel](https://www.youtube.com/channel/UCQpS2iHNVR-_6nAxt87nwCw)
 
 ## Additional Resources
 

@@ -27,7 +27,7 @@ Thank you for your suggestions!
 
 ## Creating your own awesome list
 
-To create your own list, check out the [instructions](create-list.md).
+To create your own list, check out [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## Adding something to an awesome list
 
@@ -46,4 +46,4 @@ You'll need a [GitHub account](https://github.com/join)!
 
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
 
-[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.

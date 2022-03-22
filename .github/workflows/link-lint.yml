@@ -18,7 +18,7 @@ jobs:
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
       id: linter
       with:
-        config-file: ".github/link-lint.config.json"
+        config-file: ".github/workflows/link-lint.config.json"
     - name: Issue on failure
       if: ${{ failure() }}
       uses: JasonEtco/create-an-issue@v2

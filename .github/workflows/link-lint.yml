@@ -1,9 +1,12 @@
 name: Check Markdown links
 
+permissions:
+  contents: read
+  issues: write 
 on:
   push:
-    paths:
-      - 'README.md'
+    branches:
+      - main
   schedule:
     - cron: "0 4 * * 1"
 
@@ -13,3 +16,14 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      id: linter
+    - name: Issue on failure
+      if: ${{ failure() }}
+      uses: JasonEtco/create-an-issue@v2
+      with:
+        update_existing: true
+        search_existing: open
+        filename: .github/ISSUE_LINK_BROKEN_TEMPLATE.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        RUN_ID: ${{ github.run_id }}

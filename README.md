@@ -122,6 +122,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [F4map Demo](https://demo.f4map.com/) - 3D rendering demo of OpenStreetMap data.
 * [FacilMap](https://facilmap.org/) - Map with easy possibility to filter for POI types. ([Source Code](https://github.com/FacilMap/facilmap))
 * [Straßenraumkarte Neukölln](https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap) - High-detail micromap of the district "Neukölln" of Berlin, Germany.
+* [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code](https://github.com/adamfranco/curvature))
 
 ### Mobile Maps
 

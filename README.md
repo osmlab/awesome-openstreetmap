@@ -24,12 +24,14 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
   * [Mobile Maps](#mobile-maps)
   * [Generators](#generators)
   * [Map Styles](#map-styles)
+  * [Map Games](#map-games)
 * [Libraries](#libraries)
   * [C/C++](#cc)
   * [JavaScript](#javascript)
   * [Python](#python)
   * [Java](#java)
 * [Public APIs](#public-apis)
+* [Miscellaneous](#miscellaneous)
 * [Video](#video)
   * [Global](#global)
   * [Regional](#regional)
@@ -48,6 +50,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code](https://github.com/zverik/level0))
 * [MapWith.ai](https://mapwith.ai/) - AI assisted versions of iD. ([Meta-Repo](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code](https://github.com/facebookincubator/RapiD))
 * [OSMyBiz](https://osmybiz.osm.ch) - Website for managing informations about your business. ([Source Code](https://gitlab.com/geometalab/osmybiz))
+* [OnOSM](https://www.onosm.org/) - Allows anyone to submit business information as a note for inclusion into OSM. ([Source Code](https://github.com/osmlab/onosm.org))
 
 ### Mobile Editors
 
@@ -122,6 +125,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [F4map Demo](https://demo.f4map.com/) - 3D rendering demo of OpenStreetMap data.
 * [FacilMap](https://facilmap.org/) - Map with easy possibility to filter for POI types. ([Source Code](https://github.com/FacilMap/facilmap))
 * [Straßenraumkarte Neukölln](https://supaplexosm.github.io/strassenraumkarte-neukoelln/?map=micromap) - High-detail micromap of the district "Neukölln" of Berlin, Germany.
+* [Road Curvature](https://roadcurvature.com/map/) - Helps to find curvy roads for those who enjoy them. ([Source Code](https://github.com/adamfranco/curvature))
 
 ### Mobile Maps
 
@@ -137,6 +141,10 @@ This section is a great place to start if you want to get into improving OpenStr
 ### Map Styles
 
 * [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
+
+### Map Games
+
+* [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code](https://github.com/adam-lynch/back-of-your-hand))
 
 ## Libraries
 
@@ -173,6 +181,10 @@ This section is a great place to start if you want to get into improving OpenStr
 * [osm.mazdermind](https://osm.mazdermind.de/replicate-sequences/) - Maps Timestamp to replicate sequences. ([Source Code](https://github.com/MaZderMind/replicate-sequences))
 * [planet.osm](http://planet.osm.org) - Minutely/weekly/yearly/full dumps of osm data.
 * [bbbike](https://extract.bbbike.org) - Custom extracts of areas from planet.osm.
+
+## Miscellaneous
+
+* [OpenGeofiction](https://opengeofiction.net/) - A completely fictional user-made world map, created using the OSM software platform.
 
 ## Video
 

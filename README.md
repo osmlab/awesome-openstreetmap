@@ -24,6 +24,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
   * [Mobile Maps](#mobile-maps)
   * [Generators](#generators)
   * [Map Styles](#map-styles)
+  * [Map Games](#map-games)
 * [Libraries](#libraries)
   * [C/C++](#cc)
   * [JavaScript](#javascript)
@@ -138,6 +139,10 @@ This section is a great place to start if you want to get into improving OpenStr
 ### Map Styles
 
 * [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
+
+### Map Games
+
+* [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code](https://github.com/adam-lynch/back-of-your-hand))
 
 ## Libraries
 

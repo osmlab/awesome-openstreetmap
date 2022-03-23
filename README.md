@@ -31,6 +31,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
   * [Python](#python)
   * [Java](#java)
 * [Public APIs](#public-apis)
+* [Miscellaneous](#miscellaneous)
 * [Video](#video)
   * [Global](#global)
   * [Regional](#regional)
@@ -180,6 +181,10 @@ This section is a great place to start if you want to get into improving OpenStr
 * [osm.mazdermind](https://osm.mazdermind.de/replicate-sequences/) - Maps Timestamp to replicate sequences. ([Source Code](https://github.com/MaZderMind/replicate-sequences))
 * [planet.osm](http://planet.osm.org) - Minutely/weekly/yearly/full dumps of osm data.
 * [bbbike](https://extract.bbbike.org) - Custom extracts of areas from planet.osm.
+
+## Miscellaneous
+
+* [OpenGeofiction](https://opengeofiction.net/) - A completely fictional user-made world map, created using the OSM software platform.
 
 ## Video
 

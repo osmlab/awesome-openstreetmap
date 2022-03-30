@@ -91,7 +91,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 
 ### Mobile Tools
 
-* [OSMTracker](https://github.com/labexp/osmtracker-android) - Offline GPS tracking tool for recording GPX tracks. (Android)
+* [OSMTracker](https://github.com/labexp/osmtracker-android) - Offline GPS tracking tool for recording GPX tracks. (Android / [Wiki](https://wiki.openstreetmap.org/wiki/OSMTracker_(Android)))
 
 ### Native Tools
 

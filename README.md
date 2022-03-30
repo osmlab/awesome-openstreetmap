@@ -192,7 +192,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 ### Global
 
-* [State of the Map](https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ) - YouTube channel of the State of the Map conference containing VoDs of talks.
+* [State of the Map](https://www.youtube.com/channel/UCLqJsr_5PfdvDFbgv1qp2aQ) - YouTube channel of the State of the Map conference containing VoDs of talks. ([Wiki](https://wiki.openstreetmap.org/wiki/State_of_the_Map))
 * [Humanitarian OpenStreetMap Team (HOT)](https://www.youtube.com/user/hotosm) - YouTube channel of the HOT containing content regarding humanitarian OSM work.
 
 ### Regional
@@ -205,9 +205,9 @@ This section is a great place to start if you want to get into improving OpenStr
 
 ### Websites
 
-* [LearnOSM.org](https://learnosm.org/en/beginner/) - Extencive beginners' guide to editing OpenStreetMap.
+* [LearnOSM.org](https://learnosm.org/en/beginner/) - Extencive beginners' guide to editing OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/LearnOSM))
 * [What OSM?](https://whatosm.pavie.info/) - Tool for finding tools for contributing to OSM by answering three simple questions.
-* [TeachOSM](https://teachosm.org/) - Project assisting educators at all levels to introduce open source mapping and OpenStreetMap in the classroom.
+* [TeachOSM](https://teachosm.org/) - Project assisting educators at all levels to introduce open source mapping and OpenStreetMap in the classroom. ([Wiki](https://wiki.openstreetmap.org/wiki/TeachOSM))
 
 ### Wiki-Pages
 

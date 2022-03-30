@@ -186,7 +186,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 ## Miscellaneous
 
-* [OpenGeofiction](https://opengeofiction.net/) - A completely fictional user-made world map, created using the OSM software platform.
+* [OpenGeofiction](https://opengeofiction.net/) - A completely fictional user-made world map, created using the OSM software platform. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenGeofiction))
 
 ## Video
 

@@ -41,6 +41,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [Articles](#articles)
 * [Communities](#communities)
   * [Global Communities](#global-communities)
+* [Related lists](#related-lists)
 
 ## Editors
 
@@ -163,7 +164,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [node-mapnik](https://github.com/mapnik/node-mapnik) - Node wrapper for mapnik.
 * [Leaflet](https://leafletjs.com/) - An open-source JavaScript library for mobile-friendly interactive maps. ([Source Code](https://github.com/Leaflet/Leaflet) / [Wiki](https://wiki.openstreetmap.org/wiki/Leaflet))
 * [OpenLayers](https://openlayers.org/) - A high-performance library for rendering raster and vector maps. ([Source Code](https://github.com/openlayers/openlayers) / [Wiki](https://wiki.openstreetmap.org/wiki/OpenLayers))
-* [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code](https://github.com/maplibre/maplibre-gl-js))
+* [MapLibre GL JS](https://maplibre.org/projects/#js) - A map renderer with GPU-accelerated vector tile rendering. ([Source Code](https://github.com/maplibre/maplibre-gl-js) / [See Related Lists](#related-lists))
 
 ### Python
 
@@ -228,6 +229,10 @@ This section is a great place to start if you want to get into improving OpenStr
 * [OpenStreetMap Community](https://community.openstreetmap.org/) - Official forums hosted by the OpenStreetMap Foundation.
 * [r/openstreetmap](https://www.reddit.com/r/openstreetmap) - Inofficial Reddit forum dedicated to sharing OSM related links and news.
 * [“OpenStreetMap World” Discord](https://discord.gg/openstreetmap) - OSM related instant messaging and voice chat group.
+
+## Related lists
+
+* [awesome-maplibre](https://github.com/maplibre/awesome-maplibre#readme) - A collection of awesome things that use or support MapLibre!
 
 ## Footnotes
 

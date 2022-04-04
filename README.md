@@ -86,7 +86,6 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 * [OpenStreetMap Welcome Tool](https://welcome.osm.be/) - Tool for finding fresh mappers in your area. ([Source Code](https://github.com/osmbe/osm-welcome-tool))
 * [Web To OSM Opening Hours](https://webmapping.cyou/WebToOSMOH/) - Tool for converting human-readable opening hours to `opening_hours` tags. ([Source Code](https://github.com/OSM-de/WebToOSMOH))
 * [ohsome Dashboard](https://ohsome.org/apps/dashboard/) - Tool for visualizing changes over a certain time period.
-* [OpenStreetMap Hall Monitor](https://hallmonitor.info/) - Tool for monitoring any modifications on a specific node/way/relation. ([Source Code (analyser)](https://github.com/ethan-nelson/osm_hall_monitor), [Source Code (web)](https://github.com/ethan-nelson/osmhm_site)) 
 
 ### Mobile Tools
 

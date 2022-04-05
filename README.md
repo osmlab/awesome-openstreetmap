@@ -8,6 +8,8 @@ OpenStreetMap is an open map being used by millions of devices and users every d
 
 This list contains projects using OpenStreetMap data for creative purposes, as well as projects dedicated to improving OpenStreetMap.
 
+We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If you are a developer, consider adopting one!
+
 ## Contents
 
 * [Editors](#editors)

@@ -67,6 +67,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
 * [StreetComplete](https://github.com/westnordost/StreetComplete) - App for improving OSM by answering simple questions. (Android / [Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete))
 * [Vespucci](https://vespucci.io/) - Advanced full-data-model editor for Android. (Android / [Source Code](https://github.com/MarcusWolschon/osmeditor4android) / [Wiki](https://wiki.openstreetmap.org/wiki/Vespucci))
 * [GoMap!!](https://apps.apple.com/app/id592990211) - Feature-rich mobile editor for iOS. (iOS / [Source Code](https://github.com/bryceco/GoMap) / [Wiki](https://wiki.openstreetmap.org/wiki/Go_Map!!))
+* [Every Door](https://every-door.app) - Every Door is an Android and iOS app that lets you create and edit objects in OpenStreetMap. It supports editing node and polygon features, and creating point features like shops, benches, and building entrances. ([Source Code](https://github.com/zverik/every_door) / [Wiki](https://wiki.openstreetmap.org/wiki/Every_Door))
 <!--lint enable no-repeat-punctuation-->
 
 ### Native Editors

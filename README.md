@@ -29,6 +29,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
   * [Generators](#generators)
   * [Map Styles](#map-styles)
   * [Map Games](#map-games)
+  * [Goal Tracking](#goal-tracking)
 * [Libraries](#libraries)
   * [C/C++](#cc)
   * [JavaScript](#javascript)
@@ -176,6 +177,11 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code](https://github.com/adam-lynch/back-of-your-hand))
 * [PraxisMapper](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world. ([Source Code](https://github.com/drakewill-CRL/PraxisMapper))
 
+### Goal Tracking
+These services compare GPS traces you've collected via a service like [Strava](https://wiki.openstreetmap.org/wiki/Strava) to the street network in OpenStreetMap so you can track and share how much of a city you've visited. These services depend on OSM to have accurate highway classification and boundaries.
+
+* [CityStrides](https://citystrides.com/) - A web platform that encourages the user to run every street in their city. Based on your Strava data it shows where you have and have not run, provides challenges, a leaderboard, and a forum. 
+ 
 ## Libraries
 
 ### C/C++

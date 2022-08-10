@@ -201,6 +201,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [osmcha](https://github.com/willemarcel/osmcha) - Python package to detect suspicious OSM changesets.
 * [osmnx](https://github.com/gboeing/osmnx) - Visualizer for street networks. ([Wiki](https://wiki.openstreetmap.org/wiki/OSMnx))
 * [python-mapnik](https://github.com/mapnik/python-mapnik) - Python wrapper for mapnik.
+* [prettymapp](https://github.com/chrieke/prettymapp) - Create beautiful maps from OpenStreetMap data.
 
 ### Java
 

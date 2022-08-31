@@ -157,6 +157,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [AccessMap](https://www.accessmap.io/) - A web map project to enable accessible, safe sidewalk trip planning for people with limited mobility. Currently rendering senveral cities in Washington State. ([Source Code](https://github.com/accessmap))
 * [Cycle.Travel](https://cycle.travel/map) - An OSM-based bike route-planner, together with extensive editorial content about long-distance cycle routes and city cycling. ([Wiki](https://wiki.openstreetmap.org/wiki/Cycle.travel))
 * [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application
+* [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities.
 
 ### Mobile Maps
 

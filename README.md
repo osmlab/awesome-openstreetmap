@@ -179,7 +179,6 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code](https://github.com/adam-lynch/back-of-your-hand))
 * [PraxisMapper](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world. ([Source Code](https://github.com/drakewill-CRL/PraxisMapper))
-* [Earthwalker](https://gitlab.com/glatteis/earthwalker)[^selfhosted-only] - A GeoGuessr clone playable in browser. Find where you are in the world using only Google StreetView. Supports custom challenges and multiplayer.
 
 ### Goal Tracking
 

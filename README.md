@@ -158,6 +158,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Cycle.Travel](https://cycle.travel/map) - An OSM-based bike route-planner, together with extensive editorial content about long-distance cycle routes and city cycling. ([Wiki](https://wiki.openstreetmap.org/wiki/Cycle.travel))
 * [OSM Landuse](https://osmlanduse.org) - OSM based landuse and landcover WebGIS application.
 * [OsmAPP](https://osmapp.org) - A browsable map showing data and offering simple POI-editing capabilities. ([Source Code](https://github.com/zbycz/osmapp))
+* [Tracesmap](https://tracesmap.com/) - A map allowing for planning routes on OsmCarto and OpenTopoMap-derived retina maps.
 
 ### Mobile Maps
 

@@ -184,8 +184,8 @@ This section is a great place to start if you want to get into improving OpenStr
 ### Map Games
 
 * [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code](https://github.com/adam-lynch/back-of-your-hand))
-* [PraxisMapper](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world. ([Source Code](https://github.com/drakewill-CRL/PraxisMapper))
-* [Arnis](https://github.com/louis-e/arnis) - Generate cities from real life in Minecraft using Python. ([Source Code](https://github.com/louis-e/arnis))
+* [PraxisMapper](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world.
+* [Arnis](https://github.com/louis-e/arnis) - Generate cities from real life in Minecraft using Python.
 
 ### Goal Tracking
 

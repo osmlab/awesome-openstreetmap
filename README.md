@@ -223,12 +223,14 @@ The services in this category allow you to track personal and fitness goals util
 * [overpy](https://github.com/DinoTools/python-overpy) - A Python wrapper to access the Overpass API.
 * [overpassforge](https://github.com/Krafpy/Overpass-Forge) - A package to build Overpass queries from Python objects.
 * [humanized_opening_hours](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
+* [geodesk](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis
 
 ### Java
 
 * [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) - Open source multi-modal trip planner. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenTripPlanner))
 * [GraphHopper](https://github.com/graphhopper/graphhopper) - Open source route planning library and server using OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/GraphHopper))
 * [OSM2World](http://osm2world.org) - OSM2World is a converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
+* [GeoDesk](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis
 
 ## Public APIs
 

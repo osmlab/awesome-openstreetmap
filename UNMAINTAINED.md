@@ -10,8 +10,18 @@ If you are a developer, consider looking through those projects and adopting one
 
 ## Contents
 
+* [Editors](#editors)
+  * [Web Editors](#web-editors)
 * [Tools](#tools)
   * [Web Tools](#web-tools)
+
+
+## Editors
+
+### Web Editors
+
+* [Deriviste](https://osm.cycle.travel/deriviste/) - Provides a simple interface to add nodes to OpenStreetMap based on what you see in Mapillary street-level imagery. ([Source Code](https://github.com/systemed/deriviste) / [Wiki](https://wiki.openstreetmap.org/wiki/Deriviste))
+
 
 ## Tools
 

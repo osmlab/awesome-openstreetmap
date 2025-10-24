@@ -70,6 +70,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
 * [GoMap!!](http://gomaposm.com) - Feature-rich mobile editor for iOS. ([iOS](https://apps.apple.com/app/id592990211) / [Source Code](https://github.com/bryceco/GoMap) / [Wiki](https://wiki.openstreetmap.org/wiki/Go_Map!!))
 * [Every Door](https://every-door.app) - Every Door is an Android and iOS app that lets you create and edit objects in OpenStreetMap. It supports editing node and polygon features, and creating point features like shops, benches, and building entrances. ([Android](https://play.google.com/store/apps/details?id=info.zverev.ilya.every_door) / [iOS](https://apps.apple.com/app/id1621945342) / [Source Code](https://github.com/zverik/every_door) / [Wiki](https://wiki.openstreetmap.org/wiki/Every_Door))
 * [OSM Go!](https://osmgo.com/) - OSM Go! is an Android application and a Progressive Web Applications (PWA) for contributing to OpenStreetMap. ([Android](https://play.google.com/store/apps/details?id=fr.dogeo.osmgo) / [Source Code](https://github.com/DoFabien/OsmGo) / [Wiki](https://wiki.openstreetmap.org/wiki/Osm_Go!))
+* [SCEE](https://github.com/Helium314/SCEE) - StreetComplete Expert Edition: A modified version of StreetComplete that allows advanced editing capabilities. ([Android](https://f-droid.org/packages/de.westnordost.streetcomplete.expert/) / [Wiki](https://wiki.openstreetmap.org/wiki/SCEE))
 <!--lint enable no-repeat-punctuation-->
 
 ### Native Editors

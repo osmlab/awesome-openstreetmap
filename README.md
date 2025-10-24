@@ -197,6 +197,8 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code](https://github.com/adam-lynch/back-of-your-hand))
 * [PraxisMapper](https://github.com/drakewill-CRL/PraxisMapper) - GPS Game server, for making mobile games around exploring the real world.
 * [Arnis](https://github.com/louis-e/arnis) - Generate cities from real life in Minecraft using Python.
+* [PanoGuessr](https://panoguessr.com/) - A geography game that uses Panoramax to challenge players in identifying locations worldwide from Panoramax images. ([Source Code](https://gitlab.com/panoguessr/panoguessr.com))
+* [PanoramaxGuessr](https://panoramaxguessr.k327.eu/) - A geography game that serves as a FOSS alternative to GeoGuessr, using Panoramax imagery for location identification. ([Source Code](https://codeberg.org/k327/panoramaxguessr))
 
 ### Goal Tracking
 

@@ -179,6 +179,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [OsmAnd](https://osmand.net) - Map viewing and navigation (routing) application with offline functionality available for Android and iOS. (Android, iOS / [Source Code Android](https://github.com/osmandapp/OsmAnd) / [Source Code iOS](https://github.com/osmandapp/OsmAnd-iOS) / [Wiki](https://wiki.openstreetmap.org/wiki/OsmAnd))
 * [Organic Maps](https://organicmaps.app/) - A free offline maps app based on OSM. (Android, iOS / [Source Code](https://github.com/organicmaps/organicmaps) / [Wiki](https://wiki.openstreetmap.org/wiki/Organic_Maps))
+* [CoMaps](https://www.comaps.app) A community fork of Organic Maps (Android, iOS / [Source Code](https://codeberg.org/comaps))
 * [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app. (Android, iOS / [Wiki](https://wiki.openstreetmap.org/wiki/Magic_Earth))
 * [Komoot](https://www.komoot.com/) - A route planner and navigation app specializing in hiking and cycling. ([Android](https://market.android.com/details?id=de.komoot.android), [iOS](https://itunes.apple.com/de/app/id447374873?mt=8) / [Wiki](https://wiki.openstreetmap.org/wiki/Komoot))
 

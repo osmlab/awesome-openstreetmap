@@ -250,6 +250,9 @@ The services in this category allow you to track personal and fitness goals util
 * [bbbike](https://extract.bbbike.org) - Custom extracts of areas from planet.osm. ([Wiki](https://wiki.openstreetmap.org/wiki/BBBike_@_World))
 * [OSMCha API](https://osmcha.org/api-docs/) - Powerful API that allows to query and retrieve changeset information. ([Source Code](https://github.com/willemarcel/osmcha-django))
 * [Bunting Labs' OSM Extract API](https://buntinglabs.com/solutions/openstreetmap-extracts) - Free extracts of OSM features as GeoJSON, filtering on tags and bounding box. ([Docs](https://docs.buntinglabs.com/openstreetmap-api/extract))
+* [Postpass](https://github.com/woodpeck/postpass-ops) - PostGIS-powered SQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/Postpass))
+* [QLever](https://qlever.dev/osm-planet/) - SPARQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/QLever))
+* [Sophox](https://sophox.org/) - SPARQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/Sophox))
 
 ## Miscellaneous
 

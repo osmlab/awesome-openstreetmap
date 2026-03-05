@@ -194,6 +194,10 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
 
+### Map/Tile Providers
+
+* [OpenFreeMap](https://openfreemap.org/) - Free, production-quality OpenStreetMap vector-tile hosting of the entire planet. No limits, no registration, no user database, no API keys, and no cookies. ([Source Code](https://github.com/hyperknot/openfreemap))
+
 ### Map Games
 
 * [Back Of Your Hand](https://backofyourhand.com/) - A web map game that tests your knowledge by having you find a street in a given area. ([Source Code](https://github.com/adam-lynch/back-of-your-hand))

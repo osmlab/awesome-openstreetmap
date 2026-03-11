@@ -29,6 +29,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
   * [Mobile Maps](#mobile-maps)
   * [Generators](#generators)
   * [Map Styles](#map-styles)
+  * [Map/Tile Providers](#maptile-providers)
   * [Map Games](#map-games)
   * [Goal Tracking](#goal-tracking)
 * [Libraries](#libraries)

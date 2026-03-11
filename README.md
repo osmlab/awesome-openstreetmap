@@ -29,6 +29,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
   * [Mobile Maps](#mobile-maps)
   * [Generators](#generators)
   * [Map Styles](#map-styles)
+  * [Map/Tile Providers](#maptile-providers)
   * [Map Games](#map-games)
   * [Goal Tracking](#goal-tracking)
 * [Libraries](#libraries)
@@ -193,6 +194,10 @@ This section is a great place to start if you want to get into improving OpenStr
 ### Map Styles
 
 * [Terrain Classic](https://github.com/stamen/terrain-classic) - World-wide CartoCSS port of Stamen's classic terrain style.
+
+### Map/Tile Providers
+
+* [OpenFreeMap](https://openfreemap.org/) - Free, production-quality OpenStreetMap vector-tile hosting of the entire planet. No limits, no registration, no user database, no API keys, and no cookies. ([Source Code](https://github.com/hyperknot/openfreemap))
 
 ### Map Games
 

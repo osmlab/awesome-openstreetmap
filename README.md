@@ -10,6 +10,7 @@ This list contains projects using OpenStreetMap data for creative purposes, as w
 
 We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If you are a developer, consider adopting one!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for OpenStreetMap data workflow orchestration, automated geospatial pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 * [Editors](#editors)

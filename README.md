@@ -215,6 +215,7 @@ The services in this category allow you to track personal and fitness goals util
 * [libosmium](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmium))
 * [OSRM](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications. ([Wiki](https://wiki.openstreetmap.org/wiki/Open_Source_Routing_Machine))
 * [mapnik](https://github.com/mapnik/mapnik) - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node. ([Wiki](https://wiki.openstreetmap.org/wiki/Mapnik))
+* [Valhalla](https://github.com/valhalla/valhalla) - Routing engine written in C++. ([Wiki](https://wiki.openstreetmap.org/wiki/Valhalla))
 
 ### JavaScript
 

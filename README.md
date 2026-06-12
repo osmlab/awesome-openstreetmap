@@ -258,6 +258,7 @@ The services in this category allow you to track personal and fitness goals util
 * [Postpass](https://github.com/woodpeck/postpass-ops) - PostGIS-powered SQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/Postpass))
 * [QLever](https://qlever.dev/osm-planet/) - SPARQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/QLever))
 * [Sophox](https://sophox.org/) - SPARQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/Sophox))
+* [LatLng](https://www.latlng.work/) - OSM-based geocoding, reverse geocoding, places, static maps, and map tile APIs. ([Docs](https://www.latlng.work/docs))
 
 ## Miscellaneous
 

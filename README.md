@@ -176,6 +176,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 * [Streets GL](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 * [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
+* [Seamap](https://openwaters.io/charts/seamap) - A nautical chart rendered from OSM `seamark:*` tags and everyday tags like `leisure=marina`: buoys and beacons with IALA colours and topmarks, lights with sector arcs and characteristics, hazards, and traffic separation schemes. Rebuilt weekly, so edits appear on the chart with the next build. ([Source Code](https://github.com/openwatersio/seamap))
 * [Seascape](https://openwaters.io/charts/seascape) - Open source global bathymetry tiles (depth shading, contours, soundings) that pair with OSM basemaps; uses OSM land polygons for land/water masking. ([Source Code](https://github.com/openwatersio/seascape))
 
 ### Mobile Maps

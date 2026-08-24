@@ -176,7 +176,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 * [Streets GL](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 * [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
-* [TrainRouter](https://trainrouter.com) - Interactive atlas of 767 notable passenger train routes worldwide, rendered on OpenStreetMap-based OpenFreeMap vector tiles; the underlying rail dataset is open (CC BY 4.0).
+* [World Train Map](https://worldtrainmap.com) - Interactive atlas of over a thousand notable passenger train routes worldwide, with route alignments traced from OpenStreetMap railway relations and rendered on OpenFreeMap vector tiles (MapLibre GL JS). The route dataset is open (CC BY 4.0).
 
 ### Mobile Maps
 

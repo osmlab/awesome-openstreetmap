@@ -201,6 +201,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Arnis](https://github.com/louis-e/arnis) - Generate cities from real life in Minecraft using Python.
 * [PanoGuessr](https://panoguessr.com/) - A geography game that uses Panoramax to challenge players in identifying locations worldwide from Panoramax images. ([Source Code](https://gitlab.com/panoguessr/panoguessr.com))
 * [PanoramaxGuessr](https://panoramaxguessr.k327.eu/) - A geography game that serves as a FOSS alternative to GeoGuessr, using Panoramax imagery for location identification. ([Source Code](https://codeberg.org/k327/panoramaxguessr))
+* [AuraCity](https://auracity.lol) - A browser game that gives every real-world place an "Aura" score: pick a bar, cafe or park and push it up the city, country and world leaderboards. Places are seeded from Overture Maps, with Overpass as a fallback.
 
 ### Goal Tracking
 

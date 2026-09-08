@@ -176,6 +176,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 * [Streets GL](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 * [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
+* [tripkit](https://atishyy27.github.io/tripkit/) - Shows which places nearby are open at the current moment using OpenStreetMap opening_hours data, and builds a day plan around them. Runs entirely in the browser; towns you have already opened stay available offline. ([Source Code](https://github.com/Atishyy27/tripkit))
 
 ### Mobile Maps
 

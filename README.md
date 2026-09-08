@@ -108,6 +108,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
 ### Native Tools
 
 * [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code](https://github.com/baremaps/baremaps))
+* [OSM Edit MCP](https://github.com/skywinder/osm-edit-mcp) - Alpha Python Model Context Protocol server for analyzing local GPX segments and previewing road edits, with explicit confirmation before production changes.
 
 ### Browser Extensions
 

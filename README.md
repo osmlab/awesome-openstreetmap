@@ -189,6 +189,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
 * [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
+* [PnPInk](https://github.com/xoellijo/pnpink) - Open-source Inkscape extension for generating customizable SVG maps from OpenStreetMap/OpenFreeMap data, with data-driven styling, layouts, and print-ready export. ([videoshow](https://youtu.be/4-8j88vCPSc), [videoshow part2](https://youtu.be/NGdhCF_0zAg)) 
 
 ### Map Styles
 

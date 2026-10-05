@@ -176,7 +176,8 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 * [Streets GL](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 * [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
-* [World Train Map](https://worldtrainmap.com) - Interactive atlas of over a thousand notable passenger train routes worldwide, with route alignments traced from OpenStreetMap railway relations and rendered on OpenFreeMap vector tiles (MapLibre GL JS). The route dataset is open (CC BY 4.0).
+* [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis, scoring any neighborhood on a 15-minute-city framework using OpenStreetMap data.
+* [World Train Map](https://worldtrainmap.com) - Interactive atlas of over a thousand notable passenger train routes worldwide, with route alignments traced from OpenStreetMap railway relations and rendered on OpenFreeMap vector tiles (MapLibre GL JS). The route dataset is open (facts CC BY 4.0, OSM-traced geometry ODbL). ([Dataset](https://github.com/Flightmussy/trainrouter-atlas))
 
 ### Mobile Maps
 
@@ -190,6 +191,7 @@ This section is a great place to start if you want to get into improving OpenStr
 
 * [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
 * [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
+* [MapPoster Online](https://maptoposter.0v0.one/) - Web-based map poster generator with customizable styles. ([Source Code](https://github.com/ianho7/maptoposter-online))
 
 ### Map Styles
 
@@ -216,6 +218,7 @@ The services in this category allow you to track personal and fitness goals util
 * [libosmium](https://github.com/osmcode/libosmium) - Fast and flexible C++ library for working with OpenStreetMap data. ([Wiki](https://wiki.openstreetmap.org/wiki/Osmium))
 * [OSRM](https://github.com/Project-OSRM/osrm-backend) -  Routing engine for use in C++ applications. ([Wiki](https://wiki.openstreetmap.org/wiki/Open_Source_Routing_Machine))
 * [mapnik](https://github.com/mapnik/mapnik) - Combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node. ([Wiki](https://wiki.openstreetmap.org/wiki/Mapnik))
+* [Valhalla](https://github.com/valhalla/valhalla) - Routing engine written in C++. ([Wiki](https://wiki.openstreetmap.org/wiki/Valhalla))
 
 ### JavaScript
 
@@ -259,6 +262,7 @@ The services in this category allow you to track personal and fitness goals util
 * [Postpass](https://github.com/woodpeck/postpass-ops) - PostGIS-powered SQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/Postpass))
 * [QLever](https://qlever.dev/osm-planet/) - SPARQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/QLever))
 * [Sophox](https://sophox.org/) - SPARQL API for OSM data. ([Wiki](https://wiki.openstreetmap.org/wiki/Sophox))
+* [MapAtlas](https://mapatlas.eu) - REST API for geocoding, routing, isochrone, matrix, map matching, and MVT vector tiles built on OpenStreetMap data. ([Docs](https://docs.mapatlas.xyz/))
 
 ## Miscellaneous
 

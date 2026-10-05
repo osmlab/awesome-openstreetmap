@@ -209,6 +209,7 @@ This section is a great place to start if you want to get into improving OpenStr
 The services in this category allow you to track personal and fitness goals utilizing OpenStreetMap data.
 
 * [CityStrides](https://citystrides.com/) - A web platform that encourages the user to run every street in their city. Based on your Strava data it shows where you have and have not run, provides challenges, a leaderboard, and a forum.
+* [MTL Explorer](https://mindalyze-com.github.io/mtl-explorer/) - Self-hosted GPS track archive with OpenStreetMap-based maps, activity analysis, filtering, and route planning. ([Source Code](https://github.com/mindalyze-com/mtl-explorer))
 
 ## Libraries
 

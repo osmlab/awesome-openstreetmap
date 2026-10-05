@@ -242,6 +242,7 @@ The services in this category allow you to track personal and fitness goals util
 * [humanized_opening_hours](https://github.com/rezemika/humanized_opening_hours) - A package to parse the `opening_hours` tag.
 * [geodesk](https://github.com/clarisma/geodesk-py) - Fast and storage-efficient database for OpenStreetMap analysis.
 * [QuackOSM](https://github.com/kraina-ai/quackosm) - A Python library for downloading, filtering and transforming `*.osm.pbf` files into `GeoParquet` files using DuckDB.
+* [roadstyle](https://github.com/Khoshkhah/roadstyle) - Styled, interactive, offline HTML maps of road networks (OSMnx edges, any GeoDataFrame or file), with road cartography, Google Street View and a JavaScript API.
 
 ### Java
 

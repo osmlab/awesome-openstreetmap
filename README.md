@@ -177,6 +177,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Streets GL](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 * [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
 * [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis, scoring any neighborhood on a 15-minute-city framework using OpenStreetMap data.
+* [World Train Map](https://worldtrainmap.com) - Interactive atlas of over a thousand notable passenger train routes worldwide, with route alignments traced from OpenStreetMap railway relations and rendered on OpenFreeMap vector tiles (MapLibre GL JS). The route dataset is open (facts CC BY 4.0, OSM-traced geometry ODbL). ([Dataset](https://github.com/Flightmussy/trainrouter-atlas))
 
 ### Mobile Maps
 

@@ -185,6 +185,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Magic Earth](https://www.magicearth.com/) - A free turn-by-turn navigation app. (Android, iOS / [Wiki](https://wiki.openstreetmap.org/wiki/Magic_Earth))
 * [Komoot](https://www.komoot.com/) - A route planner and navigation app specializing in hiking and cycling. ([Android](https://market.android.com/details?id=de.komoot.android), [iOS](https://itunes.apple.com/de/app/id447374873?mt=8) / [Wiki](https://wiki.openstreetmap.org/wiki/Komoot))
 * [CoMaps](https://www.comaps.app/) - A free, open-source offline navigation app prioritizing user privacy and using OSM. (Android, iOS / [Source Code](https://codeberg.org/comaps/comaps/) / [Wiki](https://wiki.openstreetmap.org/wiki/CoMaps))
+* [Freepark](https://freeparkapp.fr/en/) - Free-parking finder for France built on OSM data, where users can report and complete parking spots straight into OSM. ([iOS](https://apps.apple.com/fr/app/freepark/id6813134751) / [Wiki](https://wiki.openstreetmap.org/wiki/Freepark))
 
 ### Generators
 

@@ -2,10 +2,40 @@
 
 ## Table of Contents
 
+- [Curation](#curation)
 - [Adding to this list](#adding-to-this-list)
 - [Creating your own awesome list](#creating-your-own-awesome-list)
 - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
+
+## Curation
+
+To ensure a high quality and consistent reviewing of this list we have the following curation guidelines.
+
+### Community Spirit
+
+Any project submitted to this list must follow community spirit. As such it must fall into one of the following categories:
+- Open Source
+- Providing community value
+
+Community value refers to providing to the community in the form of open datasets, public APIs, editor interfaces and such.
+
+### Project Health
+
+A project may be rejected or removed due to any of the following project health indicators:
+- stale repository (no commits for a long time)
+- dead links
+- excessive AI usage
+
+### Project Blacklist
+
+Due to repeated low quality submissions we have an explicit blanket ban on projects that fit the following categories:
+- Projects, which only use OSM as a basemap and nothing more
+  
+  A project submitted to this list should use OSM data in novel innovative ways. If we allowed any project using an OSM web map the KFC Restaurant Finder would qualify for this list - which is definitely not in the spirit of the list.
+- Projects, which have a primarily commercial character
+  
+  If a project is actively pushing users towards paying for a service, then it is against the spirit of this list. This list is not meant as a free advertising space, but instead it is meant as a place to discover cool projects which can be built upon as a community.
 
 ## Adding to this list
 

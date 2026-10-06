@@ -55,7 +55,6 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
 
 ### Web Editors
 
-* [MapPoster](https://mapposter.xyz/) - Design custom map posters of any city in the world. 50+ artistic themes, print-ready quality. ([Wiki](https://wiki.openstreetmap.org/wiki/Mapposter))
 * [iD](http://www.openstreetmap.org/edit?editor=id) - JavaScript based editor for the web browser with a wide array of presets. ([Source Code](https://github.com/openstreetmap/iD) / [Wiki](https://wiki.openstreetmap.org/wiki/ID))
 * [Level0](http://level0.osmz.ru/) - Text based editor that's useful in specific corner cases. ([Source Code](https://github.com/zverik/level0) / [Wiki](https://wiki.openstreetmap.org/wiki/Level0))
 * [Rapid](https://rapideditor.org/edit) - AI assisted versions of iD. ([Meta-Repo](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) / [Editor Source Code](https://github.com/facebook/Rapid) / [Wiki](https://wiki.openstreetmap.org/wiki/RapiD))
@@ -192,6 +191,8 @@ This section is a great place to start if you want to get into improving OpenStr
 * [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
 * [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
 * [MapPoster Online](https://maptoposter.0v0.one/) - Web-based map poster generator with customizable styles. ([Source Code](https://github.com/ianho7/maptoposter-online))
+* [MapPoster](https://mapposter.xyz/) - Design custom map posters of any city in the world. 50+ artistic themes, print-ready quality. ([Wiki](https://wiki.openstreetmap.org/wiki/Mapposter))
+
 
 ### Map Styles
 

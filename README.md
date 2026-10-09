@@ -177,7 +177,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Streets GL](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
 * [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
 * [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis, scoring any neighborhood on a 15-minute-city framework using OpenStreetMap data.
-* [Pumperly](https://pumperly.com) - Open-source fuel price comparison and EV charging route planner, with live prices across 22 countries, built on Valhalla routing, Photon geocoding and OpenFreeMap tiles. ([Source Code](https://github.com/GeiserX/Pumperly) `AGPL-3.0`)
+* [Pumperly](https://pumperly.com) - Open-source fuel price comparison and EV charging route planner, with live prices across 22 countries, built on Valhalla routing, Photon geocoding and OpenFreeMap tiles. ([Source Code](https://github.com/GeiserX/Pumperly))
 
 ### Mobile Maps
 

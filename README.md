@@ -191,6 +191,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
 * [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
 * [MapPoster Online](https://maptoposter.0v0.one/) - Web-based map poster generator with customizable styles. ([Source Code](https://github.com/ianho7/maptoposter-online))
+* [Walking Map Maker](https://mapmaker.openacrossbase.net/en/) - Open-source web tool for creating customizable, print-ready maps from OpenStreetMap data, featuring 2D/3D rendering, hand-drawn styles, and SVG/PNG export. ([Source Code](https://github.com/K-Sakanoshita/mapmaker))
 
 ### Map Styles
 

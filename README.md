@@ -108,6 +108,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
 ### Native Tools
 
 * [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code](https://github.com/baremaps/baremaps))
+* [kmap](https://github.com/kmaptool/kmap) - Desktop tool that builds routable Garmin maps with contour lines and hill shading from OSM extracts. (Linux / macOS / Windows / [Wiki](https://wiki.openstreetmap.org/wiki/Kmap))
 
 ### Browser Extensions
 

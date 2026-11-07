@@ -36,6 +36,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
   * [JavaScript](#javascript)
   * [Python](#python)
   * [Java](#java)
+* [Geocoding](#geocoding)
 * [Public APIs](#public-apis)
 * [Miscellaneous](#miscellaneous)
 * [Video](#video)
@@ -249,6 +250,14 @@ The services in this category allow you to track personal and fitness goals util
 * [GraphHopper](https://github.com/graphhopper/graphhopper) - Open source route planning library and server using OpenStreetMap. ([Wiki](https://wiki.openstreetmap.org/wiki/GraphHopper))
 * [OSM2World](http://osm2world.org) - converter that creates three-dimensional models of the world from OpenStreetMap data. It can be used as a stand-alone tool, on a server or as a library in Java programs. ([Source Code](https://github.com/tordanik/OSM2World) / [Wiki](https://wiki.openstreetmap.org/wiki/OSM2World))
 * [GeoDesk](https://github.com/clarisma/geodesk) - Fast and storage-efficient database for OpenStreetMap analysis.
+
+## Geocoding
+
+* [Nominatim](https://nominatim.org/) - Search engine for OSM data by name and address, and reverse geocoder that powers the search on openstreetmap.org. ([Source Code](https://github.com/osm-search/Nominatim) / [Wiki](https://wiki.openstreetmap.org/wiki/Nominatim))
+* [Photon](https://photon.komoot.io/) - Search-as-you-type geocoder for OSM data, built on OpenSearch, with data imported from a Nominatim database. ([Source Code](https://github.com/komoot/photon) / [Wiki](https://wiki.openstreetmap.org/wiki/Photon))
+* [Pelias](https://pelias.io/) - Modular geocoder that combines OSM with other open data such as OpenAddresses and Who's On First. ([Source Code](https://github.com/pelias/pelias) / [Wiki](https://wiki.openstreetmap.org/wiki/Pelias))
+* [libpostal](https://github.com/openvenues/libpostal) - C library for parsing and normalizing street addresses worldwide, trained on OSM and OpenAddresses data. ([Wiki](https://wiki.openstreetmap.org/wiki/Libpostal))
+* [Mailwoman](https://mailwoman.post/) - Address parser and geocoder for Node.js and the browser, trained partly on OSM addresses, that builds per-country address-point databases from OSM extracts. ([Source Code](https://github.com/sister-software/mailwoman) / [Wiki](https://wiki.openstreetmap.org/wiki/Mailwoman))
 
 ## Public APIs
 

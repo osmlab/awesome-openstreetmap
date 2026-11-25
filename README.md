@@ -189,6 +189,7 @@ This section is a great place to start if you want to get into improving OpenStr
 ### Generators
 
 * [MyOSMatic](https://print.get-map.org/new/) - Website for generating printable street maps from OSM data. ([Source Code](https://github.com/hholzgra/maposmatic/))
+* [OSM2CDR](https://osm2cdr.com/) - Web service exporting OSM data for a selected area or administrative boundary into 62+ vector, CAD and 3D formats (CDR, DWG, DXF, SVG, STL and more) with map layers kept editable.
 * [Field Papers](http://fieldpapers.org/) - Generate maps for printing, annotate them, and manage your notes after. ([Source Code](https://github.com/fieldpapers/fieldpapers) / [Wiki](https://wiki.openstreetmap.org/wiki/Field_Papers))
 * [MapPoster Online](https://maptoposter.0v0.one/) - Web-based map poster generator with customizable styles. ([Source Code](https://github.com/ianho7/maptoposter-online))
 
